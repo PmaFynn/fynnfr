@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pmafynn.github.io/fynnfr/docs/</loc>
+    <loc>http://localhost:1313/fynnfr/docs/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
   </url><url>
-    <loc>https://pmafynn.github.io/fynnfr/</loc>
+    <loc>http://localhost:1313/fynnfr/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
   </url><url>
-    <loc>https://pmafynn.github.io/fynnfr/docs/test/</loc>
+    <loc>http://localhost:1313/fynnfr/docs/test/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
   </url><url>
-    <loc>https://pmafynn.github.io/fynnfr/categories/</loc>
+    <loc>http://localhost:1313/fynnfr/categories/</loc>
   </url><url>
-    <loc>https://pmafynn.github.io/fynnfr/tags/</loc>
+    <loc>http://localhost:1313/fynnfr/tags/</loc>
   </url>
 </urlset>
