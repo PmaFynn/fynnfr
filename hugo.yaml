@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Fynn's Webpage
     subtitle: "Introduction"
-    imageUrl: "./static/me.jpg"
+    imageUrl: "home/me.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: me
