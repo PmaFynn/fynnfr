@@ -58,13 +58,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Fynn's Webpage
+    subtitle: "Introduction"
+    imageUrl: "./static/me.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: me
     buttons:
       - name: Posts
         url: posts
