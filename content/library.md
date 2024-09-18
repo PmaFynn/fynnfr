@@ -1,7 +1,7 @@
 +++
-title = 'My Personal Library'
+title = 'My Personal (Physical) Library'
 date = 2024-09-18T19:38:10+02:00
 draft = false
 +++
-This is a list of the books in my personal library. If you have any questions or want me to review any of them, contact me <- make this a link.
-# test
+<!--TODO: make the contact link its own page where there is also a link to signal-->
+This is a list of the books in my personal library. If you want to borrow a book feel free to [contact me](mailto:fynn@fynnfr.org). 

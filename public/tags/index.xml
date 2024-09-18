@@ -20,26 +20,5 @@
       <guid>http://localhost:1313/tags/movie/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Test2</title>
-      <link>http://localhost:1313/tags/test2/</link>
-      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/tags/test2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tst</title>
-      <link>http://localhost:1313/tags/tst/</link>
-      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
-      <guid>http://localhost:1313/tags/tst/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
