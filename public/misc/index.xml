@@ -18,7 +18,23 @@
       <link>http://localhost:1313/misc/like/</link>
       <pubDate>Wed, 18 Sep 2024 20:05:48 +0200</pubDate>
       <guid>http://localhost:1313/misc/like/</guid>
-      <description>&lt;h1 id=&#34;works&#34;&gt;works&lt;/h1&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;vim bindings&lt;/li&gt;
+&lt;li&gt;Browser extension: uBlock origin&lt;/li&gt;
+&lt;li&gt;Browser extension: SponsorBlock for Youtube&lt;/li&gt;
+&lt;li&gt;Browser extension: I still don&amp;rsquo;t care about cookies&lt;/li&gt;
+&lt;li&gt;Libre Software&lt;/li&gt;
+&lt;li&gt;bash scripting&lt;/li&gt;
+&lt;li&gt;yt-dlp&lt;/li&gt;
+&lt;li&gt;mpv&lt;/li&gt;
+&lt;li&gt;tmux&lt;/li&gt;
+&lt;li&gt;pass&lt;/li&gt;
+&lt;li&gt;neovim&lt;/li&gt;
+&lt;li&gt;dmenu&lt;/li&gt;
+&lt;li&gt;Wikipedia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmhy.net/&#34;&gt;https://fmhy.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;rss&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>I dont like this</title>

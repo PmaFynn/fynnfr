@@ -11,28 +11,44 @@
     </image>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Sep 2024 20:06:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 22:54:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I like this</title>
       <link>http://localhost:1313/misc/like/</link>
       <pubDate>Wed, 18 Sep 2024 20:05:48 +0200</pubDate>
       <guid>http://localhost:1313/misc/like/</guid>
-      <description>&lt;h1 id=&#34;works&#34;&gt;works&lt;/h1&gt;</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;vim bindings&lt;/li&gt;
+&lt;li&gt;Browser extension: uBlock origin&lt;/li&gt;
+&lt;li&gt;Browser extension: SponsorBlock for Youtube&lt;/li&gt;
+&lt;li&gt;Browser extension: I still don&amp;rsquo;t care about cookies&lt;/li&gt;
+&lt;li&gt;Libre Software&lt;/li&gt;
+&lt;li&gt;bash scripting&lt;/li&gt;
+&lt;li&gt;yt-dlp&lt;/li&gt;
+&lt;li&gt;mpv&lt;/li&gt;
+&lt;li&gt;tmux&lt;/li&gt;
+&lt;li&gt;pass&lt;/li&gt;
+&lt;li&gt;neovim&lt;/li&gt;
+&lt;li&gt;dmenu&lt;/li&gt;
+&lt;li&gt;Wikipedia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmhy.net/&#34;&gt;https://fmhy.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;rss&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>I dont like this</title>
-      <link>http://localhost:1313/misc/nolike/</link>
-      <pubDate>Wed, 18 Sep 2024 20:06:20 +0200</pubDate>
-      <guid>http://localhost:1313/misc/nolike/</guid>
-      <description>&lt;h1 id=&#34;also-works&#34;&gt;also works&lt;/h1&gt;</description>
+      <title>PathsOfGlory</title>
+      <link>http://localhost:1313/reviews/pathsofglory/</link>
+      <pubDate>Wed, 18 Sep 2024 22:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/reviews/pathsofglory/</guid>
+      <description>&lt;p&gt;Good anti-war movie&lt;/p&gt;</description>
     </item>
     <item>
       <title>PerfectDays</title>
       <link>http://localhost:1313/reviews/perfectdays/</link>
       <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
       <guid>http://localhost:1313/reviews/perfectdays/</guid>
-      <description>&lt;h1 id=&#34;nice-movie&#34;&gt;Nice movie&lt;/h1&gt;</description>
+      <description>&lt;p&gt;peak movie&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Personal Library</title>
@@ -49,6 +65,13 @@
       <guid>http://localhost:1313/docs/test/</guid>
       <description>&lt;h3 id=&#34;this-is-a-test-page&#34;&gt;This is a test page..&lt;/h3&gt;
 &lt;p&gt;this ia a test page&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I dont like this</title>
+      <link>http://localhost:1313/misc/nolike/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/misc/nolike/</guid>
+      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>
