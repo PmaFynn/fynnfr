@@ -1,6 +1,6 @@
 baseURL: "https://fynnfr.org"
 title: Fynn's Webpage
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 languageCode: en-us
 
@@ -27,11 +27,11 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -67,8 +67,8 @@ params:
     imageHeight: 220
     imageTitle: me
     buttons:
-      - name: Programs
-        url: programs
+      - name: Misc
+        url: misc
       - name: Library
         url: library
       - name: Reviews
@@ -113,9 +113,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: programs
-      name: Programs
-      url: /programs/
+    - identifier: misc
+      name: Misc
+      url: /misc/
       weight: 10
     - identifier: library
       name: Library

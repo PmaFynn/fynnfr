@@ -10,9 +10,38 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.134.2</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 18 Sep 2024 16:40:22 +0200</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 20:06:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I like this</title>
+      <link>http://localhost:1313/misc/like/</link>
+      <pubDate>Wed, 18 Sep 2024 20:05:48 +0200</pubDate>
+      <guid>http://localhost:1313/misc/like/</guid>
+      <description>&lt;h1 id=&#34;works&#34;&gt;works&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>I dont like this</title>
+      <link>http://localhost:1313/misc/nolike/</link>
+      <pubDate>Wed, 18 Sep 2024 20:06:20 +0200</pubDate>
+      <guid>http://localhost:1313/misc/nolike/</guid>
+      <description>&lt;h1 id=&#34;also-works&#34;&gt;also works&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>PerfectDays</title>
+      <link>http://localhost:1313/reviews/perfectdays/</link>
+      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/reviews/perfectdays/</guid>
+      <description>&lt;h1 id=&#34;nice-movie&#34;&gt;Nice movie&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>My Personal Library</title>
+      <link>http://localhost:1313/library/</link>
+      <pubDate>Wed, 18 Sep 2024 19:38:10 +0200</pubDate>
+      <guid>http://localhost:1313/library/</guid>
+      <description>&lt;p&gt;This is a list of the books in my personal library. If you have any questions or want me to review any of them, contact me &amp;lt;- make this a link.&lt;/p&gt;
+&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Test</title>
       <link>http://localhost:1313/docs/test/</link>

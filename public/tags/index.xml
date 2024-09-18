@@ -10,7 +10,22 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.134.2</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2024 19:54:40 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>http://localhost:1313/tags/test2/</link>
+      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/tags/test2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tst</title>
+      <link>http://localhost:1313/tags/tst/</link>
+      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/tags/tst/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
