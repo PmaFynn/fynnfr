@@ -2,6 +2,7 @@ baseURL: "https://fynnfr.org"
 title: Fynn's Webpage
 paginate: 5
 theme: PaperMod
+languageCode: en-us
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -62,41 +63,42 @@ params:
     title: Fynn's Webpage
     subtitle: "Introduction"
     imageUrl: "home/me.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 220
+    imageHeight: 220
     imageTitle: me
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi theree \U0001F44B"
-    Content: Welcome to my blog
+      - name: Programs
+        url: programs
+      - name: Library
+        url: library
+      - name: Reviews
+        url: reviews
 
   socialIcons:
+    - name: email
+      url: "mailto:fynn@fynnfr.org"
     - name: github
       url: "https://github.com/pmafynn"
+    # - name: cw
+    #   url: "toFollow"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -111,18 +113,30 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: programs
+      name: Programs
+      url: /programs/
       weight: 10
-    - identifier: tagsTest
-      name: tagsTest
-      url: /tagsTest/
+    - identifier: library
+      name: Library
+      url: /library/
       weight: 20
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+    - identifier: reviews
+      name: Reviews
+      url: /reviews/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
+    - identifier: tags
+      name: Tags
+      url: /Tags
+      weight: 40
+    # - identifier: essays
+    #   name: Essays
+    #   url: /essays/
+    #   weight: xx
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
