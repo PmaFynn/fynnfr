@@ -1,151 +1,194 @@
 baseURL: "https://fynnfr.org"
 title: Fynn's Webpage
 pagination.pagerSize: 5
-theme: PaperMod
+theme: Archie
 languageCode: en-us
-
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-googleAnalytics: UA-123-45
-
-minify:
-  disableXML: true
-  minifyOutput: true
+#copyright: "© Athul"
+pygmentsstyle: "monokai"
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+disqusShortname: "yourDisqusShortname"
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Fynn's Webpage
-  description: "Fynn's Webpage"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  mode: "light"
+  useCDN: false
+  #subtitle: "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+  mathjax: true
+  katex: true
 
-  ShowReadingTime: false
-  ShowShareButtons: false
-  ShowPostNavLinks: false
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
+  social:
+    - name: "GitHub"
+      icon: "github"
+      url: "https://github.com/athul/archie"
+    - name: "Twitter"
+      icon: "twitter"
+      url: "https://twitter.com/athulcajay/"
+    - name: "GitLab"
+      icon: "gitlab"
+      url: "https://gitlab.com/athul/"
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
-
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: Fynn's Webpage
-    subtitle: "Introduction"
-    imageUrl: "home/me.png"
-    imageWidth: 220
-    imageHeight: 220
-    imageTitle: me
-    buttons:
-      - name: Misc
-        url: misc
-      - name: Library
-        url: library
-      - name: Reviews
-        url: reviews
-
-  socialIcons:
-    - name: email
-      url: "mailto:fynn@fynnfr.org"
-    - name: github
-      url: "https://github.com/pmafynn"
-    # - name: cw
-    #   url: "toFollow"
-
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: "XYZabc"
-  #   bing:
-  #     SiteVerificationTag: "XYZabc"
-  #   yandex:
-  #     SiteVerificationTag: "XYZabc"
-
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: misc
-      name: Misc
-      url: /misc/
-      weight: 10
-    - identifier: library
-      name: Library
-      url: /library/
-      weight: 20
-    - identifier: reviews
-      name: Reviews
-      url: /reviews/
-      weight: 30
-    # - identifier: search
-    #   name: Search
-    #   url: /search
-    #   weight: 50
-    - identifier: tags
-      name: Tags
-      url: /Tags
-      weight: 40
-    # - identifier: essays
-    #   name: Essays
-    #   url: /essays/
-    #   weight: xx
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
-
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "All posts"
+      url: "/posts"
+      weight: 2
+    - name: "About"
+      url: "/about"
+      weight: 3
+    - name: "Tags"
+      url: "/tags"
+      weight: 4
+# baseURL: "https://fynnfr.org"
+# title: Fynn's Webpage
+# pagination.pagerSize: 5
+# theme: Archie
 # languageCode: en-us
+#
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+#
+# googleAnalytics: UA-123-45
+#
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+#
+# params:
+#   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+#   title: Fynn's Webpage
+#   description: "Fynn's Webpage"
+#   keywords: [Blog, Portfolio, PaperMod]
+#   author: Me
+#   # author: ["Me", "You"] # multiple authors
+#   images: ["<link or path of image for opengraph, twitter-cards>"]
+#   DateFormat: "January 2, 2006"
+#   defaultTheme: auto # dark, light
+#   disableThemeToggle: false
+#
+#   ShowReadingTime: false
+#   ShowShareButtons: false
+#   ShowPostNavLinks: false
+#   ShowBreadCrumbs: true
+#   ShowCodeCopyButtons: true
+#   ShowWordCount: true
+#   ShowRssButtonInSectionTermList: true
+#   UseHugoToc: true
+#   disableSpecial1stPost: false
+#   disableScrollToTop: false
+#   comments: false
+#   hidemeta: false
+#   hideSummary: false
+#   showtoc: false
+#   tocopen: false
+#
+#   assets:
+#     # disableHLJS: true # to disable highlight.js
+#     # disableFingerprinting: true
+#     favicon: "<link / abs url>"
+#     favicon16x16: "<link / abs url>"
+#     favicon32x32: "<link / abs url>"
+#     apple_touch_icon: "<link / abs url>"
+#     safari_pinned_tab: "<link / abs url>"
+#
+#   label:
+#     text: "Home"
+#     icon: /apple-touch-icon.png
+#     iconHeight: 35
+#
+#   # profile-mode
+#   profileMode:
+#     enabled: true # needs to be explicitly set
+#     title: Fynn's Webpage
+#     subtitle: "Introduction"
+#     imageUrl: "home/me.png"
+#     imageWidth: 220
+#     imageHeight: 220
+#     imageTitle: me
+#     buttons:
+#       - name: Misc
+#         url: misc
+#       - name: Library
+#         url: library
+#       - name: Reviews
+#         url: reviews
+#
+#   socialIcons:
+#     - name: email
+#       url: "mailto:fynn@fynnfr.org"
+#     - name: github
+#       url: "https://github.com/pmafynn"
+#     # - name: cw
+#     #   url: "toFollow"
+#
+#   # analytics:
+#   #   google:
+#   #     SiteVerificationTag: "XYZabc"
+#   #   bing:
+#   #     SiteVerificationTag: "XYZabc"
+#   #   yandex:
+#   #     SiteVerificationTag: "XYZabc"
+#
+#   cover:
+#     hidden: true # hide everywhere but not in structured data
+#     hiddenInList: true # hide on list pages and home
+#     hiddenInSingle: true # hide on single page
+#
+#   # editPost:
+#   #   URL: "https://github.com/<path_to_repo>/content"
+#   #   Text: "Suggest Changes" # edit text
+#   #   appendFilePath: true # to append file path to Edit link
+#
+#   # for search
+#   # https://fusejs.io/api/options.html
+#   fuseOpts:
+#     isCaseSensitive: false
+#     shouldSort: true
+#     location: 0
+#     distance: 1000
+#     threshold: 0.4
+#     minMatchCharLength: 0
+#     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+#     keys: ["title", "permalink", "summary", "content"]
+# menu:
+#   main:
+#     - identifier: misc
+#       name: Misc
+#       url: /misc/
+#       weight: 10
+#     - identifier: library
+#       name: Library
+#       url: /library/
+#       weight: 20
+#     - identifier: reviews
+#       name: Reviews
+#       url: /reviews/
+#       weight: 30
+#     # - identifier: search
+#     #   name: Search
+#     #   url: /search
+#     #   weight: 50
+#     - identifier: tags
+#       name: Tags
+#       url: /Tags
+#       weight: 40
+#     # - identifier: essays
+#     #   name: Essays
+#     #   url: /essays/
+#     #   weight: xx
+# # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#   highlight:
+#     noClasses: false
+#     # anchorLineNos: true
+#     # codeFences: true
+#     # guessSyntax: true
+#     # lineNos: true
+#     # style: monokai
+#
+# # languageCode: en-us
