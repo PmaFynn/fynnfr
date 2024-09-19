@@ -1,7 +1,6 @@
 ---
-title: "Paths Of Glory"
-date: 2024-09-18T22:54:40+02:00
-tags: ['movie']
+title: "I do not like this"
+date: 2024-09-19T14:29:39+02:00
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
@@ -11,7 +10,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-# description: "Desc Text."
+
+description: "Stuff I do not like"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -24,12 +24,18 @@ ShowPostNavLinks: false
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "movies/dontLikeCover.png" # image path/url
-    # alt: "<alt text>" # alt text
-    # caption: "<text>" # display caption under cover
-    # relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+# cover:
+#     image: "<image path/url>" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: true # only hide on current single page
 ---
 
-Good anti-war movie
+- SaaS
+- Google
+- Chromium
+- Microsoft
+- Elon Musk
+- Bloat
+- JS

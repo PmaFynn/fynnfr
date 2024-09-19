@@ -14,45 +14,21 @@
     <lastBuildDate>Thu, 19 Sep 2024 14:29:39 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/misc/</link>
+      <title>I like this</title>
+      <link>http://localhost:1313/misc/like/</link>
       <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
-      <guid>http://localhost:1313/misc/</guid>
-      <description>&lt;h2 id=&#34;stuff-i-like&#34;&gt;Stuff I like&lt;/h2&gt;
-&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
-&lt;p&gt;Software I use and recommend.&lt;/p&gt;
-&lt;h4 id=&#34;operating-system&#34;&gt;Operating System&lt;/h4&gt;
-&lt;p&gt;GNU/Linux with &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;shell&#34;&gt;Shell&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://zsh.sourceforge.io/&#34;&gt;Zsh&lt;/a&gt; with &lt;a href=&#34;https://github.com/ohmyzsh/ohmyzsh&#34;&gt;&lt;em&gt;oh my zsh&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;terminal&#34;&gt;Terminal&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://alacritty.org/&#34;&gt;Alacritty&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
-&lt;h5 id=&#34;config&#34;&gt;Config&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/yokoffing/BetterFox&#34;&gt;BetterFox&lt;/a&gt; user.js&lt;/p&gt;
-&lt;h5 id=&#34;search-engine&#34;&gt;Search engine&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/p&gt;
-&lt;h5 id=&#34;browser-extensions&#34;&gt;Browser extensions&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/&#34;&gt;&lt;strong&gt;uBlock origin&lt;/strong&gt;&lt;/a&gt; (not using this is  just dumb)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/&#34;&gt;I still don&amp;rsquo;t care about cookies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/&#34;&gt;Decentraleyes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/&#34;&gt;SponsorBlock for Youtube&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;text-editor&#34;&gt;Text Editor&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://neovim.io/&#34;&gt;Neovim&lt;/a&gt; with a fork of &lt;a href=&#34;https://github.com/PmaFynn/kickstart-mod.nvim&#34;&gt;&lt;em&gt;kickstart&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;window-manager&#34;&gt;Window manager&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;file-manager&#34;&gt;File manager&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/sxyazi/yazi&#34;&gt;Yazi&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;rss-reader&#34;&gt;RSS reader&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;Newsboat&lt;/a&gt;; &lt;a href=&#34;https://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt; for iPhone&lt;/p&gt;
-&lt;h4 id=&#34;document-viewer&#34;&gt;Document viewer&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;Zathura&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/misc/like/</guid>
+      <description>Stuff I like, use and recommend</description>
     </item>
     <item>
-      <title>PathsOfGlory</title>
+      <title>I do not like this</title>
+      <link>http://localhost:1313/misc/nolike/</link>
+      <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
+      <guid>http://localhost:1313/misc/nolike/</guid>
+      <description>Stuff I do not like</description>
+    </item>
+    <item>
+      <title>Paths Of Glory</title>
       <link>http://localhost:1313/reviews/pathsofglory/</link>
       <pubDate>Wed, 18 Sep 2024 22:54:40 +0200</pubDate>
       <guid>http://localhost:1313/reviews/pathsofglory/</guid>
