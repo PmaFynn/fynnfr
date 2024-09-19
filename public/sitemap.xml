@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/misc/like/</loc>
-    <lastmod>2024-09-18T20:05:48+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-18T22:54:40+02:00</lastmod>
+    <lastmod>2024-09-19T14:29:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/misc/</loc>
+    <lastmod>2024-09-19T14:29:39+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/movie/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
@@ -20,9 +20,6 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/misc/</loc>
-    <lastmod>2024-09-18T20:05:48+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/reviews/perfectdays/</loc>
     <lastmod>2024-09-18T19:54:40+02:00</lastmod>
   </url><url>
@@ -34,9 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/test/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/misc/nolike/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
