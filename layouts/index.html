@@ -34,7 +34,17 @@
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
-        {{- partial "social_icons.html" -}}
+
+            <div style="display:flex">
+              {{ if site.Params.Social }}
+                {{- range $index, $key := site.Params.Social -}}
+                  <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+                  <a class="border"></a>
+                {{- end -}}
+              {{ else }}
+                <p>No social media links found</p>
+              {{ end }}
+            </div>
 
         {{- with .buttons }}
         <div class="buttons">

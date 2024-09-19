@@ -41,11 +41,11 @@ params:
       - name: Reviews
         url: reviews
 
-  # socialIcons:
-  #   - name: email
-  #     url: "mailto:fynn@fynnfr.org"
-  #   - name: github
-  #     url: "https://github.com/pmafynn"
+  socialIcons:
+    - name: email
+      url: "mailto:fynn@fynnfr.org"
+    - name: github
+      url: "https://github.com/pmafynn"
       # - name: cw
       #   url: "toFollow"
         #
