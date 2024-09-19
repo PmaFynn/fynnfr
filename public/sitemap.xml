@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/misc/like/</loc>
+    <loc>http://localhost:41485/misc/like/</loc>
     <lastmod>2024-09-19T14:29:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:41485/</loc>
     <lastmod>2024-09-19T14:29:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/misc/nolike/</loc>
+    <loc>http://localhost:41485/misc/nolike/</loc>
     <lastmod>2024-09-19T14:29:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/misc/</loc>
+    <loc>http://localhost:41485/misc/</loc>
     <lastmod>2024-09-19T14:29:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/movie/</loc>
+    <loc>http://localhost:41485/tags/movie/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/pathsofglory/</loc>
+    <loc>http://localhost:41485/reviews/pathsofglory/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
+    <loc>http://localhost:41485/reviews/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:41485/tags/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/perfectdays/</loc>
+    <loc>http://localhost:41485/reviews/perfectdays/</loc>
     <lastmod>2024-09-18T19:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/library/</loc>
+    <loc>http://localhost:41485/library/</loc>
     <lastmod>2024-09-18T19:38:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>http://localhost:41485/docs/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/test/</loc>
+    <loc>http://localhost:41485/docs/test/</loc>
     <lastmod>2024-09-18T16:40:22+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:41485/categories/</loc>
   </url>
 </urlset>
