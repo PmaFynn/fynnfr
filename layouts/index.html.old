@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main>
+    <header>
+        <h1>Welcome to My Site</h1>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Here you can add your custom text. Introduce yourself, describe your site, or add any content you want to feature on your home page.</p>
+    </section>
+
+    <section id="recent-posts">
+        <h2>Recent Posts</h2>
+        {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+        {{ $paginator := .Paginate $pages }}
+        {{ range $paginator.Pages }}
+        <article>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+        </article>
+        {{ end }}
+    </section>
+</main>
+{{ end }}

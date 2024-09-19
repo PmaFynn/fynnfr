@@ -19,14 +19,36 @@ params:
   social:
     - name: "GitHub"
       icon: "github"
-      url: "https://github.com/athul/archie"
-    - name: "Twitter"
-      icon: "twitter"
-      url: "https://twitter.com/athulcajay/"
-    - name: "GitLab"
-      icon: "gitlab"
-      url: "https://gitlab.com/athul/"
+      url: "https://github.com/pmafynn"
+    - name: "Email"
+      icon: "mail"
+      url: "mailto:fynn@fynnfr.org"
 
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Fynn's Webpage
+    subtitle: "Introduction"
+    imageUrl: "home/me.png"
+    imageWidth: 220
+    imageHeight: 220
+    imageTitle: me
+    buttons:
+      - name: Misc
+        url: misc
+      - name: Library
+        url: library
+      - name: Reviews
+        url: reviews
+
+  # socialIcons:
+  #   - name: email
+  #     url: "mailto:fynn@fynnfr.org"
+  #   - name: github
+  #     url: "https://github.com/pmafynn"
+      # - name: cw
+      #   url: "toFollow"
+        #
 
 menu:
   main:
@@ -54,31 +76,6 @@ menu:
     #   name: Essays
     #   url: /essays/
     #   weight: xx
-      #
-  # profile-mode
-profileMode:
-  enabled: true # needs to be explicitly set
-  title: Fynn's Webpage
-  subtitle: "Introduction"
-  imageUrl: "home/me.png"
-  imageWidth: 220
-  imageHeight: 220
-  imageTitle: me
-  buttons:
-    - name: Misc
-      url: misc
-    - name: Library
-      url: library
-    - name: Reviews
-      url: reviews
-
-socialIcons:
-  - name: email
-    url: "mailto:fynn@fynnfr.org"
-  - name: github
-    url: "https://github.com/pmafynn"
-    # - name: cw
-    #   url: "toFollow"
       #
 # baseURL: "https://fynnfr.org"
 # title: Fynn's Webpage
