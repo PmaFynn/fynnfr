@@ -5,7 +5,7 @@ weight: 1
 # aliases: ["/first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false

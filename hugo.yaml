@@ -11,6 +11,8 @@ buildExpired: false
 
 googleAnalytics: UA-123-45
 
+pluralizeListTitles: false
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -30,6 +32,7 @@ params:
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: false
+  disableAnchoredHeadings: false #puts the clickable/hoverable hashtag behind headlines
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
