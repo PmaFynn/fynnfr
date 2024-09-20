@@ -14,8 +14,9 @@ html, body {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
-  /*justify-content: center;*/
-  /*align-items: center;*/
+}
+
+body {
   display: flex;
   flex-direction: column;
 }
@@ -34,6 +35,30 @@ html, body {
   padding: 1em;
   box-sizing: border-box;
 }
+
+/*html {*/
+/*  color: #232333;*/
+/*  font-family: 'Roboto Mono', monospace;*/
+/*  font-size: 15px;*/
+/*  line-height: 1.6em;*/
+/*}*/
+/*body{*/
+/*  display: block;*/
+/*  margin: 8px;*/
+/*/*  display: flex;*/*/
+/*/*  flex-direction: column;*/*/
+/*}*/
+
+/*html, body {*/
+/*    height: 100%;*/
+/*    margin: 0;*/
+/*}*/
+/*body {*/
+/*  display: flex;*/
+/*  flex-direction: column;*/
+/*  min-height: 100vh;*/
+/*  margin: 0;*/
+/*}*/
 
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -371,7 +396,6 @@ table td{
 .main .profile {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main .profile {

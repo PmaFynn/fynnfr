@@ -367,11 +367,9 @@ table td{
   border: 1px solid #dfe2e5;
 }
 
-.buttons,
 .main .profile {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main .profile {

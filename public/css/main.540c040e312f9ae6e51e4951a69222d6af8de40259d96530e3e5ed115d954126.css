@@ -371,12 +371,10 @@ table td{
 .main .profile {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main .profile {
     align-items: center;
-    min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
     text-align: center;
 }
 

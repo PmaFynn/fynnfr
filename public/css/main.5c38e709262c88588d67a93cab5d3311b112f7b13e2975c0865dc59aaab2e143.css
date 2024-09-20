@@ -14,10 +14,12 @@ html, body {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
-  /*justify-content: center;*/
-  /*align-items: center;*/
+            justify-content: center;
+            align-items: center;
+}
+
+body {
   display: flex;
-  flex-direction: column;
 }
 
 .wrapper {
@@ -371,7 +373,6 @@ table td{
 .main .profile {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main .profile {

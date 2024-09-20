@@ -14,8 +14,9 @@ html, body {
   font-family: 'Roboto Mono', monospace;
   font-size: 15px;
   line-height: 1.6em;
-  /*justify-content: center;*/
-  /*align-items: center;*/
+}
+
+body {
   display: flex;
   flex-direction: column;
 }
@@ -33,6 +34,8 @@ html, body {
   margin: 0 auto;
   padding: 1em;
   box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
 }
 
 * {
@@ -371,7 +374,6 @@ table td{
 .main .profile {
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .main .profile {
