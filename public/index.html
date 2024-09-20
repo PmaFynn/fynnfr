@@ -22,7 +22,9 @@
 	
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.01f760fc684730106797e23958e77e523316fb730bd440192a42c118a9ffc021.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.22c16033103b929642d12d423b98035feb28ac0756add3b291e50d52e43d339b.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.d22e2a2879d933a4b781535fc4c4c716e9f9d35ea4986dd0cbabda82effc4bdd.css"  disabled />
+	
 
 	
 	
@@ -68,6 +70,7 @@
 	
 </head>
 <body>
+        <div class="wrapper"> 
         <div class="content"><header>
 	<div class="main">
 		<a href="http://localhost:1313/">Fynn&#39;s Webpage</a>
@@ -76,12 +79,14 @@
 		
 		<a href="/misc/">Misc</a>
 		
-		<a href="/library/">Library</a>
-		
 		<a href="/reviews/">Reviews</a>
+		
+		<a href="/library/">Library</a>
 		
 		<a href="/tags">Tags</a>
 		
+		| <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
+		<script src="http://localhost:1313/js/themetoggle.js"></script>
 		
 	</nav>
 </header>
@@ -94,12 +99,11 @@
         <h1>Fynn&rsquo;s Webpage</h1>
         <span>Introduction</span>
 
-            <div> this shows </div>
             <div style="display:flex">
-  <a class="soc" href="https://github.com/pmafynn" rel="me" title="GitHub"><i data-feather="github"></i></a>
-      <a class="border"></a><a class="soc" href="mailto:fynn@fynnfr.org" rel="me" title="Email"><i data-feather="mail"></i></a>
-      <a class="border"></a>
-</div>
+              
+                  <a class="border"></a><a class="soc" href="https://github.com/pmafynn" rel="me" title="GitHub"><i data-feather="github"></i></a><a class="soc" href="mailto:fynn@fynnfr.org" rel="me" title="Email"><i data-feather="mail"></i></a><a class="border"></a>
+              
+            </div>
         <div class="buttons">
             <a class="button" href="misc" rel="noopener" title="Misc">
                 <span class="button-inner">
@@ -120,13 +124,14 @@
     </div>
 </div>
 </main>
-<footer>
-  <div style="display:flex"><a class="soc" href="https://github.com/pmafynn" rel="me" title="GitHub"><i data-feather="github"></i></a>
-    <a class="border"></a><a class="soc" href="mailto:fynn@fynnfr.org" rel="me" title="Email"><i data-feather="mail"></i></a>
-    <a class="border"></a></div>
+
+        </div><footer>
   <div class="footer-info">
      <a
       href="fynnfr.org">Fynn's Webpage</a>
+  </div>
+  <div style="display:flex">
+    <a class="border"></a><a class="soc" href="https://github.com/pmafynn" rel="me" title="GitHub"><i data-feather="github"></i></a><a class="soc" href="mailto:fynn@fynnfr.org" rel="me" title="Email"><i data-feather="mail"></i></a><a class="border"></a>
   </div>
 </footer>
 <script>

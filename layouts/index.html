@@ -37,10 +37,11 @@
 
             <div style="display:flex">
               {{ if site.Params.Social }}
+                  <a class="border"></a>
                 {{- range $index, $key := site.Params.Social -}}
                   <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
-                  <a class="border"></a>
                 {{- end -}}
+                  <a class="border"></a>
               {{ else }}
                 <p>No social media links found</p>
               {{ end }}

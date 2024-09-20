@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax: true
 disqusShortname: "yourDisqusShortname"
 
 params:
-  mode: "light"
+  mode: "toggle"
   useCDN: false
   #subtitle: "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
   mathjax: true
@@ -56,14 +56,14 @@ menu:
       name: Misc
       url: /misc/
       weight: 10
-    - identifier: library
-      name: Library
-      url: /library/
-      weight: 20
     - identifier: reviews
       name: Reviews
       url: /reviews/
       weight: 30
+    - identifier: library
+      name: Library
+      url: /library/
+      weight: 35
     # - identifier: search
     #   name: Search
     #   url: /search

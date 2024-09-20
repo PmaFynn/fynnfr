@@ -224,9 +224,10 @@ footer {
   box-sizing: border-box;
   border-top: 0.4rem dotted var(--bordercl);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  text-align: center;
 }
 
 .soc {
@@ -240,9 +241,8 @@ footer {
 }
 
 .footer-info {
-  margin-left: 1em;
+  margin-top: 1em;
 }
-
 /* Common */
 .title h1 {
   margin-bottom: 0;
@@ -475,18 +475,18 @@ table td{
 /*  word-wrap: break-word;*/
 /*}*/
 
-/*footer {*/
-/*  flex-shrink: 0;*/
-/*  display: flex;*/
-/*  flex-direction: column;*/
-/*  align-items: center;*/
-/*  justify-content: center;*/
-/*  width: 100%;*/
-/*  border-top: 0.4rem dotted var(--bordercl);*/
-/*  padding: 2rem 0rem;*/
-/*  margin-top: 2rem;*/
-/*  text-align: center;*/
-/*}*/
+footer {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border-top: 0.4rem dotted var(--bordercl);
+  padding: 2rem 0rem;
+  margin-top: 2rem;
+  text-align: center;
+}
 
 /*.soc {*/
 /*  display: flex;*/

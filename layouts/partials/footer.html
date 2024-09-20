@@ -1,13 +1,14 @@
 <footer>
-  <div style="display:flex">
-    {{- range $index, $key := .Site.Params.Social -}}
-    <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
-    <a class="border"></a>
-    {{- end -}}
-  </div>
   <div class="footer-info">
      <a
       href="fynnfr.org">Fynn's Webpage</a>
+  </div>
+  <div style="display:flex">
+    <a class="border"></a>
+    {{- range $index, $key := .Site.Params.Social -}}
+    <a class="soc" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+    {{- end -}}
+    <a class="border"></a>
   </div>
 </footer>
 {{ if not hugo.IsServer }}
