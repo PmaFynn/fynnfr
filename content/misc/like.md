@@ -1,5 +1,5 @@
 ---
-title: "Technical stuff I like, use and recommend"
+title: "Technical stuff I like/use"
 date: 2024-09-19T14:29:39+02:00
 weight: 1
 # aliases: ["/first"]
