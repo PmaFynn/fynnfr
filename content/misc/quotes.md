@@ -31,7 +31,7 @@ UseHugoToc: true
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
-Please note that although I liked each quote, my admiration does not necessarily imply agreement, as there may be various reasons for my liking them.
+<!--Please note that although I liked each quote, my admiration does not necessarily imply agreement, as there may be various reasons for my liking them.-->
 
 ## Top
 
