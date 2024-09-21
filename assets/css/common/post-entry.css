@@ -114,9 +114,10 @@
 /*}*/
 
 .article a {
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid var(--primary);
+    margin-right: 10px;
 }
 
 .article small {
-    font-size: 12px;
+    font-size: 11px;
 }

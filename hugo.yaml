@@ -72,10 +72,10 @@ params:
     buttons:
       - name: Misc
         url: misc
-      - name: Library
-        url: library
       - name: Reviews
         url: reviews
+      - name: Library
+        url: library
 
   socialIcons:
     - name: email
@@ -123,7 +123,7 @@ menu:
     - identifier: library
       name: Library
       url: /library/
-      weight: 20
+      weight: 35
     - identifier: reviews
       name: Reviews
       url: /reviews/

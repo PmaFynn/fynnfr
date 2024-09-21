@@ -11,21 +11,63 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2024 14:29:39 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 10:20:05 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I like this</title>
+      <title>Technical stuff I like, use and recommend</title>
       <link>http://localhost:1313/misc/like/</link>
       <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
       <guid>http://localhost:1313/misc/like/</guid>
-      <description>Stuff I like, use and recommend</description>
+      <description>&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;Software I use and recommend.&lt;/p&gt;
+&lt;h3 id=&#34;operating-system&#34;&gt;Operating System&lt;/h3&gt;
+&lt;p&gt;GNU/Linux with &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;shell&#34;&gt;Shell&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://zsh.sourceforge.io/&#34;&gt;Zsh&lt;/a&gt; with &lt;a href=&#34;https://github.com/ohmyzsh/ohmyzsh&#34;&gt;&lt;em&gt;oh my zsh&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;terminal&#34;&gt;Terminal&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://alacritty.org/&#34;&gt;Alacritty&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;config&#34;&gt;Config&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/yokoffing/BetterFox&#34;&gt;BetterFox&lt;/a&gt; user.js&lt;/p&gt;
+&lt;h4 id=&#34;search-engine&#34;&gt;Search engine&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;browser-extensions&#34;&gt;Browser extensions&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/&#34;&gt;&lt;strong&gt;uBlock origin&lt;/strong&gt;&lt;/a&gt; (not using this is  just dumb)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/&#34;&gt;I still don&amp;rsquo;t care about cookies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/&#34;&gt;Decentraleyes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/&#34;&gt;SponsorBlock for Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;text-editor&#34;&gt;Text Editor&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://neovim.io/&#34;&gt;Neovim&lt;/a&gt; with a fork of &lt;a href=&#34;https://github.com/PmaFynn/kickstart-mod.nvim&#34;&gt;&lt;em&gt;kickstart&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;window-manager&#34;&gt;Window manager&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;file-manager&#34;&gt;File manager&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/sxyazi/yazi&#34;&gt;Yazi&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;rss-reader&#34;&gt;RSS reader&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;Newsboat&lt;/a&gt;; &lt;a href=&#34;https://netnewswire.com/&#34;&gt;NetNewsWire&lt;/a&gt; for iPhone&lt;/p&gt;
+&lt;h3 id=&#34;document-viewer&#34;&gt;Document viewer&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;Zathura&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;media-player&#34;&gt;Media player&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://mpv.io/&#34;&gt;mpv&lt;/a&gt;; &lt;a href=&#34;https://www.videolan.org/vlc/download-ios.html&#34;&gt;VLC&lt;/a&gt; for iPhone&lt;/p&gt;</description>
     </item>
     <item>
-      <title>I do not like this</title>
+      <title>Technical stuff I do not like</title>
       <link>http://localhost:1313/misc/nolike/</link>
       <pubDate>Thu, 19 Sep 2024 14:29:39 +0200</pubDate>
       <guid>http://localhost:1313/misc/nolike/</guid>
-      <description>Stuff I do not like</description>
+      <description>obviously no exhaustive list</description>
+    </item>
+    <item>
+      <title>Quotes I encountered and liked</title>
+      <link>http://localhost:1313/misc/quotes/</link>
+      <pubDate>Sat, 21 Sep 2024 10:20:05 +0200</pubDate>
+      <guid>http://localhost:1313/misc/quotes/</guid>
+      <description>&lt;p&gt;Please note that although I liked each quote, my admiration does not necessarily imply agreement, as there may be various reasons for my liking them.&lt;/p&gt;
+&lt;h2 id=&#34;top&#34;&gt;Top&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Der Begriff des Fortschritts ist in der Idee der Katastrophe zu fundieren. Daß es »so weiter« geht, ist die Katastrophe. Sie ist nicht das jeweils Bevorstehende sondern das jeweils Gegebene. Strindbergs Gedanke: die Hölle ist nichts, was uns bevorstünde&amp;ndash;sondern dieses Leben hier.&amp;rdquo;, &lt;em&gt;Walter Benjamin, Das Passagen-Werk&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
