@@ -11,16 +11,22 @@
     <loc>http://localhost:1313/misc/quotes/</loc>
     <lastmod>2024-09-21T10:20:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/drstrangelove/</loc>
+    <loc>http://localhost:1313/idk/drstrangelove/</loc>
     <lastmod>2024-09-23T18:02:22+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-23T18:02:22+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/george-c.-scott/</loc>
+    <lastmod>2024-09-23T18:02:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/idk/</loc>
+    <lastmod>2024-09-23T18:02:22+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/movie/</loc>
     <lastmod>2024-09-23T18:02:22+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
+    <loc>http://localhost:1313/tags/peter-sellers/</loc>
     <lastmod>2024-09-23T18:02:22+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/stanley-kubrick/</loc>
@@ -32,10 +38,16 @@
     <loc>http://localhost:1313/misc/</loc>
     <lastmod>2024-09-21T10:20:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/pathsofglory/</loc>
+    <loc>http://localhost:1313/tags/kirk-douglas/</loc>
     <lastmod>2024-09-18T22:54:40+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reviews/perfectdays/</loc>
+    <loc>http://localhost:1313/idk/pathsofglory/</loc>
+    <lastmod>2024-09-18T22:54:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/koji-yakusho/</loc>
+    <lastmod>2024-09-18T19:54:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/idk/perfectdays/</loc>
     <lastmod>2024-09-18T19:54:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wim-wenders/</loc>

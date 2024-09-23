@@ -14,6 +14,13 @@
     <lastBuildDate>Mon, 23 Sep 2024 18:02:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>George C. Scott</title>
+      <link>http://localhost:1313/tags/george-c.-scott/</link>
+      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
+      <guid>http://localhost:1313/tags/george-c.-scott/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Movie</title>
       <link>http://localhost:1313/tags/movie/</link>
       <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
@@ -21,10 +28,31 @@
       <description></description>
     </item>
     <item>
+      <title>Peter Sellers</title>
+      <link>http://localhost:1313/tags/peter-sellers/</link>
+      <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
+      <guid>http://localhost:1313/tags/peter-sellers/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Stanley Kubrick</title>
       <link>http://localhost:1313/tags/stanley-kubrick/</link>
       <pubDate>Mon, 23 Sep 2024 18:02:22 +0200</pubDate>
       <guid>http://localhost:1313/tags/stanley-kubrick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kirk Douglas</title>
+      <link>http://localhost:1313/tags/kirk-douglas/</link>
+      <pubDate>Wed, 18 Sep 2024 22:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/tags/kirk-douglas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Koji Yakusho</title>
+      <link>http://localhost:1313/tags/koji-yakusho/</link>
+      <pubDate>Wed, 18 Sep 2024 19:54:40 +0200</pubDate>
+      <guid>http://localhost:1313/tags/koji-yakusho/</guid>
       <description></description>
     </item>
     <item>
