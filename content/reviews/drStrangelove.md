@@ -1,7 +1,7 @@
 ---
-title: 'Perfect Days'
-date: 2024-09-18T19:54:40+02:00
-tags: ['movie', 'Wim Wenders', 'Koji Yakusho']
+title: 'DrStrangelove'
+date: 2024-09-23T18:02:22+02:00
+tags: ['movie', 'Stanley Kubrick', 'Peter Sellers', 'George C. Scott']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
@@ -32,7 +32,6 @@ UseHugoToc: true
 #     # relative: false # when using page bundles set this to true
 #     hidden: false # only hide on current single page
 ---
+Quite enjoyable. Is this movie the origin of the classic cliche of the over the top evil (nazi) german scientist?
 
-peak movie
-
-[IMDb](https://www.imdb.com/title/tt27503384/)
+[IMDb](https://www.imdb.com/title/tt0057012/)

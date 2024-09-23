@@ -1,7 +1,7 @@
 ---
 title: "Paths Of Glory"
 date: 2024-09-18T22:54:40+02:00
-tags: ['movie']
+tags: ['movie', 'Stanley Kubrick', 'Kirk Douglas']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
