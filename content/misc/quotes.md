@@ -64,7 +64,19 @@ UseHugoToc: true
 
 > "You who read me--are you certain you understand my language?", *Jorge Luis Borges, The Library of Babel*
 
+> "Das Stauen daruber, dass die Dinge, die wir erleben, im zwanzigsten Jahrhundert 'noch' moeglich sind, ist *kein* philosophisches. Es steht nicht am Anfang einer Erkenntnis, es sei denn der, dass die Vorstellung von Geschichte, aus der es stammt, nicht zu halten ist.", *Walter Benjamin, Ueber den Begriff der Geschichte*
+
 > "Photographs shock insofar as they show something novel. Unfortunately, the ante keeps getting raised--partly through the very proliferation of such images of horror.", *Susan Sontag, In Plato's Cave*
+
+> "Mein Flügel ist zum Schwung bereit ich kehrte gern zurück 
+>
+> denn blieb’ ich auch lebendige Zeit ich hätte wenig Glück.
+>
+> *Gerhard Scholem, Gruß vom Angelus*
+>
+>
+> Es gibt ein Bild von Klee, das Angelus Novus heißt. Ein Engel ist darauf dargestellt, der aussieht, als wäre er im Begriff, sich von etwas zu entfernen, worauf er starrt. Seine Augen sind aufgerissen, sein Mund steht offen und seine Flügel sind ausgespannt. Der Engel der Geschichte muß so aussehen. Er hat das Antlitz der Vergangenheit zugewendet. Wo eine Kette von Begebenheiten vor uns erscheint, da sieht er eine einzige Katastrophe, die unablässig Trümmer auf Trümmer häuft und sie ihm vor die Füße schleudert. Er möchte wohl verweilen, die Toten wecken und das Zerschlagene zusammenfügen. Aber ein Sturm weht vom Paradiese her, der sich in seinen Flügeln verfangen hat und so stark ist, daß der Engel sie nicht mehr schließen kann. Dieser Sturm treibt ihn unaufhaltsam in die Zukunft, der er den Rücken kehrt, während der Trümmerhaufen vor ihm zum Himmel wächst. Das, was wir den Fortschritt nennen, ist dieser Sturm.", *Walter Benjamin, Ueber den Begriff der Geschichte, IX*
+
 
 > "The world does not stop for grief and sometimes grief never ends", *don't know where I read that*
 
