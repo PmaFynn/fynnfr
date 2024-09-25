@@ -101,6 +101,7 @@ alacritty bat khal rclone oath-toolkit ytfzf yt-dlp mpv zip unzip fastfetch feh 
 
 ## Websites
 
+- <https://wtfhappenedin1971.com/>
 - **<https://fmhy.net/>** (includes all of the following)
   - <https://www.braflix.ru/>
   - <https://annas-archive.org/>
