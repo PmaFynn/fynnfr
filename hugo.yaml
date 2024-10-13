@@ -70,8 +70,8 @@ params:
     buttons:
       - name: Misc
         url: misc
-      - name: idk
-        url: idk
+      - name: media
+        url: media
       - name: Library
         url: library
 
@@ -122,9 +122,9 @@ menu:
       name: Library
       url: /library/
       weight: 35
-    - identifier: idk
-      name: idk
-      url: /idk/
+    - identifier: media
+      name: media
+      url: /media/
       weight: 30
     # - identifier: search
     #   name: Search
