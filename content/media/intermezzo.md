@@ -36,4 +36,5 @@ UseHugoToc: true
 dublin author, takes place in dublin, read in dublin
 
 [good review](https://newleftreview.org/sidecar/posts/like-a-prayer)
-[chess move](https://en.wikipedia.org/wiki/Zwischenzug)
+
+[chess move known as intermezzo](https://en.wikipedia.org/wiki/Zwischenzug)
