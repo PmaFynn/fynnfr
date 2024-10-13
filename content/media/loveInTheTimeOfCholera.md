@@ -1,5 +1,5 @@
 ---
-title: 'LoveInTheTimeOfCholera'
+title: 'Love in the Time of Cholera'
 date: 2024-10-13T14:30:09+02:00
 tags: ['book', 'novel', 'Gabriel García Márquez']
 # weight: 1

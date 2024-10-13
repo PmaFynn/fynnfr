@@ -1,6 +1,6 @@
 ---
 title: 'Intermezzo'
-date: 2024-10-3T14:30:51+02:00
+date: 2024-10-03T14:30:51+02:00
 tags: ['book', 'novel', 'Sally Rooney']
 # weight: 1
 # aliases: ["/first"]

@@ -1,6 +1,6 @@
 ---
 title: 'Jonathan Strange & Mr Norrel'
-date: 2024-9-30T14:30:37+02:00
+date: 2024-09-30T14:30:37+02:00
 tags: ['book', 'novel', 'Susanna Clarke', 'peak']
 # weight: 1
 # aliases: ["/first"]

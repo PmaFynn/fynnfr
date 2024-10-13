@@ -1,5 +1,5 @@
 ---
-title: 'DrStrangelove'
+title: 'Dr Strangelove'
 date: 2024-09-23T18:02:22+02:00
 tags: ['movie', 'Stanley Kubrick', 'Peter Sellers', 'George C. Scott']
 # weight: 1
