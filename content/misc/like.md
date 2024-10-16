@@ -82,11 +82,18 @@ GNU/Linux with [Arch Linux](https://archlinux.org/)
 
 ### RSS reader
 
-[Newsboat](https://newsboat.org/); [NetNewsWire](https://netnewswire.com/) for iPhone
+[Newsboat](https://newsboat.org/)
 
 ### Document viewer
 
 [Zathura](https://pwmt.org/projects/zathura/)
+
+
+### Presentation Tools
+
+[sent](https://tools.suckless.org/sent/)
+[LaTeX (beamer)](https://ctan.org/pkg/beamer)
+[Typst](https://github.com/typst/typst)
 
 
 ### Media player
@@ -101,10 +108,23 @@ alacritty bat khal rclone oath-toolkit ytfzf yt-dlp mpv zip unzip fastfetch feh 
 
 ## Websites
 
+- <https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-photo>
+- <https://typings.gg/>
 - <https://wtfhappenedin1971.com/>
+- <https://floor796.com>
+- <https://neal.fun/>
+- <https://fmhy.net/storage#fun-indexes>
 - **<https://fmhy.net/>** (includes all of the following)
+  - <https://en.m.wikipedia.org/wiki/Portal:Current_events>
   - <https://www.braflix.ru/>
+  - <https://www.themeasureofthings.com>
+  - <https://uselesscertifications.com/>
   - <https://annas-archive.org/>
+  - <https://forebears.io>
+  - <https://tinywow.com/>
+  - <https://zoomquilt.org/>
+  - <https://blueballmachine2.ytmnd.com/>
+  - <https://budgetduo.com/>
   - <https://bookshelf.theanarchistlibrary.org/special/index>
   - <https://www.massline.org/Dictionary/>
   - <https://www.marxists.org/>
