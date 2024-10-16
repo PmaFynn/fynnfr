@@ -123,7 +123,7 @@ menu:
       url: /library/
       weight: 35
     - identifier: media
-      name: Media consumed
+      name: Media
       url: /media/
       weight: 30
     # - identifier: search
