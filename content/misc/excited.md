@@ -1,7 +1,7 @@
 ---
 title: 'Things I am excited about'
 date: 2024-10-16T23:55:34+02:00
-weight: 1
+weight: 400
 # aliases: ["/first"]
 author: "Me"
 hideAuthor: true
