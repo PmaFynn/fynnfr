@@ -1,6 +1,6 @@
 baseURL: "https://fynnfr.org"
 title: Fynn's Webpage
-pagination.pagerSize: 5
+# pagination.pagerSize: 5
 theme: PaperMod
 languageCode: en-us
 
