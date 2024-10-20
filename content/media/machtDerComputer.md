@@ -1,5 +1,5 @@
 ---
-title: 'MachtDerComputer'
+title: 'Die Macht der Computer und die Ohnmacht der Vernunft'
 date: 2024-10-18T20:23:13+02:00
 tags: ['book', 'non-fiction', 'Joseph Weizenbaum']
 # weight: 1
