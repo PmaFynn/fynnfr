@@ -32,6 +32,15 @@ UseHugoToc: true
 #     # relative: false # when using page bundles set this to true
 #     hidden: false # only hide on current single page
 ---
+
 > "Anybody wanna waste some time?"
+
+## note:
+
+I liked it...obiously. However, as I recently watched [Trainspotting](https://fynnfr.org/media/trainspotting/) which deals with basically the same main theme--i.e. heroin--I have to admit that I prefer the later. I can not really rationalize my feelings though; I guess they deal with the theme quite differently. 
+As I, fortunatly, had no encounter with heroin myself I am able exclude the possibilty of liking one over the other bc of its realism.
+Not that it really even matters lol. Ain't a competion.
+
+Nonetheless, I will def. watch some more movies of Darren Aronofsky though I vaguely remember watching Black Swan some years back and not enjoying it that much (can't remeber why tbh)...Also, on the bright side (not that there was a dark side in the text here; the movies, on the other hand, lacked the showcase of a bright side regarding heroin :) I kind of lost my ego in that regard--probably innate to most if not all people--telling me I could take heroin and not get addicted to it.
 
 [IMDb](https://www.imdb.com/title/tt0180093/)
