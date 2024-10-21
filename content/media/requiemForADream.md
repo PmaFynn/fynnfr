@@ -37,7 +37,7 @@ UseHugoToc: true
 
 ## note:
 
-I liked it... obviously. However, as I recently watched *[Trainspotting](fynnfr.org/media/trainspotting)*, which deals with basically the same main theme—i.e. heroin—I have to admit that I prefer the latter. I can't really rationalize my feelings though; I guess they deal with the theme quite differently. As I, fortunately, had no encounter with heroin myself, I am able to exclude the possibility of liking one over the other because of its realism.
+I liked it... obviously. However, as I recently watched *[Trainspotting](fynnfr.org/media/trainspotting)*, which deals with basically the same main theme—i.e. heroin addiction—I have to admit that I prefer the latter. I can't really rationalize my feelings though; I guess they deal with the theme quite differently. As I, fortunately, had no encounter with heroin myself, I am able to exclude the possibility of liking one over the other because of its realism.
 Not that it really even matters lol. It's not a competition.
 
 Nonetheless, I will definitely watch some more movies by *Darren Aronofsky*. Though I vaguely remember watching *Black Swan* some years back and not enjoying it that much (can't remember why, to be honest)... Also, on the bright side (not that there was a dark side in the text here; the movies, on the other hand, lacked the showcase of a bright side regarding heroin), I kind of lost my ego in that regard—probably innate to most, if not all, people—telling me I could take heroin and not get addicted to it.
