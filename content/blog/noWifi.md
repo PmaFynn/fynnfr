@@ -1,6 +1,6 @@
 ---
 title: 'A month without wifi'
-date: 2024-12-05T20:23:13+02:00
+date: 2024-12-04T20:23:13+02:00
 tags: ['blog']
 # weight: 1
 # aliases: ["/first"]
