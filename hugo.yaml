@@ -70,8 +70,8 @@ params:
     buttons:
       - name: Misc
         url: misc
-      - name: Media
-        url: media
+      - name: Blog
+        url: blog
       - name: Library
         url: library
 
@@ -122,16 +122,16 @@ menu:
       name: Library
       url: /library/
       weight: 35
-    - identifier: media
-      name: Media
-      url: /media/
+    - identifier: blog
+      name: Blog
+      url: /blog/
       weight: 30
     # - identifier: search
     #   name: Search
     #   url: /search
     #   weight: 50
     - identifier: tags
-      name: Tagss
+      name: Tags
       url: /Tags
       weight: 40
     # - identifier: essays
