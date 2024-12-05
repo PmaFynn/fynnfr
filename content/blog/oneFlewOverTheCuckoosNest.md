@@ -1,5 +1,5 @@
 ---
-title: 'OneFlewOverTheCuckoosNest'
+title: 'One Flew Over The Cuckoos Nest'
 date: 2024-10-16T18:37:34+02:00
 tags: ['movie', 'Milos Forman', 'Jack Nicholson']
 # weight: 1
