@@ -32,6 +32,8 @@ UseHugoToc: true
 #     # relative: false # when using page bundles set this to true
 #     hidden: false # only hide on current single page
 ---
+Really good!
+
 > "Man is not a machine, ... although man most certainly processes information, he does not necessarily process it in the way computers do. Computers and men are not species of the same genus. .... No other organism, and certainly no computer, can be made to confront genuine human problems in human terms. ... However much intelligence computers may attain, now or in the future, theirs must always be an intelligence alien to genuine human problems and concerns."
 
 > "Science promised man power. But, as so often happens when people are seduced by promises of power, the price is servitude and impotence. Power is nothing if it is not the power to choose."
