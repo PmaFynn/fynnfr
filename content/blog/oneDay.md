@@ -1,7 +1,7 @@
 ---
 title: 'One Day'
 date: 2024-12-08T14:28:59+02:00
-tags: ['Series', 'Leo Woodall', 'Ambika Mod']
+tags: ['Series', 'Leo Woodall', 'Ambika Mod', 'loss']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
