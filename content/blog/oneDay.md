@@ -38,6 +38,6 @@ I might watch the movie at some point, as I think a shorter version would work s
 
 I would hardly recommend it.
 
-Finally, describing a 14 episode series as a mini-series is a debatable decision (I am aware that every series that finishes in one season is being refered to as such by Netflix but I, nonethelessstill , do not like it).
+Finally, referring to a 14 episode series as a mini-series is a debatable decision (I am aware that every series that finishes in one season is being refered to as such by Netflix but I, nonethelessstill , do not like it).
 
 [IMDb](https://www.imdb.com/title/tt16283804/)
