@@ -1,7 +1,7 @@
 ---
 title: 'Requiem for a Dream'
 date: 2024-10-21T22:08:48+02:00
-tags: ['movie', 'Darren Aronofsky', 'Jared Leto', 'Marlon Wayans', 'Jennifer Connelly', 'Ellen Burstyn']
+tags: ['movie', 'drugs', 'Darren Aronofsky', 'Jared Leto', 'Marlon Wayans', 'Jennifer Connelly', 'Ellen Burstyn']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"

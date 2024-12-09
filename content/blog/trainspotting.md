@@ -1,7 +1,7 @@
 ---
 title: 'Trainspotting'
 date: 2024-10-14T18:32:09+02:00
-tags: ['movie', 'Danny Boyle', 'Ewan McGregor']
+tags: ['movie', 'drugs', 'Danny Boyle', 'Ewan McGregor']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
