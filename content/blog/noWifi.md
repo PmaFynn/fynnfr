@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ShowWordCount: false
