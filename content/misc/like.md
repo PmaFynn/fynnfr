@@ -114,6 +114,7 @@ alacritty bat khal rclone oath-toolkit ytfzf yt-dlp mpv zip unzip fastfetch feh 
 - <https://floor796.com>
 - <https://neal.fun/>
 - <https://fmhy.net/storage#fun-indexes>
+- <https://redsails.org/>
 - **<https://fmhy.net/>** (includes all of the following)
   - <https://en.m.wikipedia.org/wiki/Portal:Current_events>
   - <https://www.braflix.ru/>
