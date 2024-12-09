@@ -1,6 +1,6 @@
 ---
 title: 'The Billionaire'
-date: 2024-12-05T10:23:13+02:00
+date: 2024-12-09T10:23:13+02:00
 tags: ['short story', 'Maxim Gorky']
 # weight: 1
 # aliases: ["/first"]
