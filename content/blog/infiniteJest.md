@@ -1,6 +1,6 @@
 ---
 title: 'Infinite Jest'
-date: 2025-1-1T09:30:09+02:00
+date: 2025-01-01T09:30:09+02:00
 tags: ['book', 'novel', 'peak', 'David Foster Wallace']
 # weight: 1
 # aliases: ["/first"]
