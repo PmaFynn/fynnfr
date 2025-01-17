@@ -83,6 +83,10 @@ params:
       url: "mailto:fynn@fynnfr.org"
     - name: github
       url: "https://github.com/pmafynn"
+    - name: linkedin
+      url: "https://linkedin.com/in/fynnfr"
+    - name: steam
+      url: "https://steamcommunity.com/profiles/76561198223632584/"
     - name: cv
       url: "https://cv.fynnfr.org"
 
