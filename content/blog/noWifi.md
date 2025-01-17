@@ -81,4 +81,4 @@ currently is no internet but I guess it turned into something else lol).
 
 We still do not have wifi. 
 
-However, my screen time has become humane again and I am reading more. The solution was truly just disallowing the domain. I have not reactivated it ever since disallowing it almost a month ago.
+However, my screen time has become humane again and I am reading more. The solution was truly just disallowing the domain. I have not reactivated it ever since after disallowing it almost a month ago.

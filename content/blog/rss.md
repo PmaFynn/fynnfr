@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Why I ditched algorithmic curated feeds and you should at least consider doing the same"
+description: "Why I ditched algorithmic curated feeds and you should, at the very least, consider doing the same"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
