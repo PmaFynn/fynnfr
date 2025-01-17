@@ -12,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-# description: "Desc Text."
+description: "Why I ditched algorithmic curated feeds and you should at least consider doing the same"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
