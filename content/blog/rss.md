@@ -51,7 +51,7 @@ While RSS was widely popular about 15 years ago, many users switched to commerci
 
 ![Google Trends of RSS](/blog/rss/googleTrendsRSS.png)
 
-However, there's renewed interest in returning to this simpler, more user-controlled system (well, according to [What is RSS](https://ncase.me/rss/) anyway; can't really see a spike in google trends; prob just a vibe the orginal author is getting from their bubble. However, it *should* definitely make a bigger comeback. Tough, I doubt it will happen). A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^1]
+However, there's renewed interest in returning to this simpler, more user-controlled system (well, according to [What is RSS](https://ncase.me/rss/) anyway; can't really see a spike in google trends; prob just a vibe the orginal author is getting from their bubble. However, it *should* definitely make a bigger comeback. Tough, I doubt it will happen). A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^2]
 
 ## Why should you use it?
 
