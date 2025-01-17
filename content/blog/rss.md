@@ -57,7 +57,26 @@ However, there's renewed interest in returning to this simpler, more user-contro
 
 Did this not do the trick already?
 
+Ok. Ok. Lets get out the disadvantages first. I do not wanna trick you into something. 
+
+While RSS is used by most sites, some social media sites (i.e. twitter, instagram) make it quite difficult to get a working RSS feed. Youtube, Reddit and some others on the other hand offer it quite easily. There are still workarounds for twitter and instagram. It will require either some money to get a premium RSS service such as [rss.app](https://rss.app/) or some trickery. I will, however, not go into the specifics here. To be honest, that is it with the disadvantages. At least all I can think of one the spot.
+
+So how does this RSS feed look then? Well, the following image might actually be a turnoff for some but do not worry there are more graphical RSS-readers out there.[^3] I am just using [newsboat](https://newsboat.org/), a terminal reader since I like it quite minimalistic and it comes with vim-bindings which I love.
+
+![How my RSS feed looks](/blog/rss/rssFeed.png)
+
+I can also sort via tags
+
+![Tags I use](/blog/rss/rssTags.png)
 
 [^2]: Main source of the past section: [What is RSS](https://ncase.me/rss/)
 
 [^1]: [Google Trends of RSS](https://trends.google.com/trends/explore?date=all&q=RSS&hl=en-US)
+
+[^3]: For example the following three RSS readers. At least one has an app so you can use it on your phone (there are prob 100+ apps tough. So don't worry if you do not like that one in particular):
+
+    ![Feeder](/blog/rss/feeder.png)
+
+    ![Feedly](/blog/rss/feedly.png)
+
+    ![Inoreader](/blog/rss/inoreader.png)
