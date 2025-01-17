@@ -83,8 +83,8 @@ params:
       url: "mailto:fynn@fynnfr.org"
     - name: github
       url: "https://github.com/pmafynn"
-    - name: cw
-      url: "cv.fynnfr.org"
+    - name: cv
+      url: "https://cv.fynnfr.org"
 
   # analytics:
   #   google:
