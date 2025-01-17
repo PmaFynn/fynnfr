@@ -7,7 +7,7 @@ tags: ['blog']
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 hideAuthor: true
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false

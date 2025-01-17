@@ -47,11 +47,11 @@ Unlike email newsletters where you share your address with publishers (risking s
 You choose an RSS reader application--there are many options available with a good few being open source--which then retrieves content only from the feeds you explicitly subscribe to.
 The websites can not push content to you; you control what you see.
 
-While RSS was widely popular about 15 years ago, many users switched to commercial social media platforms.
+While RSS was widely popular about 15 years ago, many users switched to commercial social media platforms.[^1]
 
-![Google Trends of RSS](/blog/rss/googleTrendsRSS.png)[^1]
+![Google Trends of RSS](/blog/rss/googleTrendsRSS.png)
 
-However, there's renewed interest in returning to this simpler, more user-controlled system (well, according to [^2]; can't really see a spike in google trends; prob just a vibe the orginal author is getting from their bubble. However, it should definitely make a bigger comeback. Doubt it will happen though). A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^1]
+However, there's renewed interest in returning to this simpler, more user-controlled system (well, according to [What is RSS](https://ncase.me/rss/) anyway; can't really see a spike in google trends; prob just a vibe the orginal author is getting from their bubble. However, it *should* definitely make a bigger comeback. Tough, I doubt it will happen). A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^1]
 
 ## Why should you use it?
 

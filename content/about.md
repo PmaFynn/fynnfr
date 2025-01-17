@@ -5,9 +5,9 @@ draft = false
 +++
 I'm Fynn. 
 
-My interests are software, literature and, at least currently, western esotericism...
+My interests are software, literature and, at least currently, western esotericism.
 
-Why am I writing this in english you may ask. Well, I just prefer english. That is all there is to it.
+Why am I writing this in english you may ask. Well, I just prefer english. I think it is a more fine and musical language. That is all there is to it.
 
 Buying stuff, huh? Great, is it not? Not really.
 However, there are a few items I genuinely don't regret buying: 
