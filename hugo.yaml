@@ -133,10 +133,10 @@ menu:
       name: Blog
       url: /blog/
       weight: 30
-    # - identifier: search
-    #   name: Search
-    #   url: /search
-    #   weight: 50
+    - identifier: projects
+      name: Projects
+      url: /tags/projects/
+      weight: 40
     # - identifier: tags
     #   name: Tags
     #   url: /Tags

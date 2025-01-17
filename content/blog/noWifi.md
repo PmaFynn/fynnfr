@@ -9,7 +9,7 @@ author: "Me"
 hideAuthor: true
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 # description: "Desc Text."
