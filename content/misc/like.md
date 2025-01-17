@@ -8,7 +8,7 @@ hideAuthor: true
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 #description: "Stuff I like, use and recommend"
@@ -117,7 +117,6 @@ alacritty bat khal rclone oath-toolkit ytfzf yt-dlp mpv zip unzip fastfetch feh 
 - <https://redsails.org/>
 - **<https://fmhy.net/>** (includes all of the following)
   - <https://en.m.wikipedia.org/wiki/Portal:Current_events>
-  - <https://www.braflix.ru/>
   - <https://www.themeasureofthings.com>
   - <https://uselesscertifications.com/>
   - <https://annas-archive.org/>

@@ -7,7 +7,7 @@ hideAuthor: true
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 #description: "Stuff I like, use and recommend"
@@ -36,8 +36,6 @@ Well, tbh, I regret most of my purchases and I am not even buying much.
 
 - ergonomic keyboard (only if you actually type a lot obv.)
 
-Damn, that is even less than I expected. Well, there you go. Prob gonna update this continually.
-
-## Stuff I have high hopes for
-
 - shopping trolley
+
+Damn, that is even less than I expected. Well, there you go. Prob gonna update this continually.
