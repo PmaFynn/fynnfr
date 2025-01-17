@@ -27,7 +27,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Fynn's Webpage
-    subtitle: "Introduction"
+    subtitle: "I'm Fynn"
     imageUrl: "home/me.png"
     imageWidth: 220
     imageHeight: 220
@@ -137,10 +137,10 @@ menu:
     #   name: Search
     #   url: /search
     #   weight: 50
-    - identifier: tags
-      name: Tags
-      url: /Tags
-      weight: 40
+    # - identifier: tags
+    #   name: Tags
+    #   url: /Tags
+    #   weight: 40
     # - identifier: essays
     #   name: Essays
     #   url: /essays/
