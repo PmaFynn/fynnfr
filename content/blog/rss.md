@@ -59,13 +59,15 @@ Did this not do the trick already?
 
 Ok. Ok. Lets get out the disadvantages first. I do not wanna trick you into something. 
 
-While RSS is used by most sites, some social media sites (i.e. twitter, instagram) make it quite difficult to get a working RSS feed. Youtube, Reddit and some others on the other hand offer it quite easily. There are still workarounds for twitter and instagram. It will require either some money to get a premium RSS service such as [rss.app](https://rss.app/) or some trickery. I will, however, not go into the specifics here. To be honest, that is it with the disadvantages. At least all I can think of one the spot.
+While RSS is used by most sites, some social media sites (i.e. twitter, instagram) make it quite difficult to get a working RSS feed. Wouldnt it be nice if people just go back to personal blogs. Nowadays that does not even take much effort to set up and you can do whatever you want with it. People would then, instead of following you on instagram, just subscribe to your rss feed.
+
+Youtube, Reddit and some other social media pages on the other hand offer it quite easily. There are still workarounds for twitter and instagram. However, it will require either some money to get a premium RSS service such as [rss.app](https://rss.app/) or some trickery. I will not go into the specifics here. To be honest, that is it with the disadvantages. At least all I can think of one the spot.
 
 So how does this RSS feed look then? Well, the following image might actually be a turnoff for some but do not worry there are more graphical RSS-readers out there.[^3] I am just using [newsboat](https://newsboat.org/), a terminal reader since I like it quite minimalistic and it comes with vim-bindings which I love.
 
-![How my RSS feed looks](/blog/rss/rssFeed.png)
+![How my RSS feed looks](/blog/rss/rssColage.png)
 
-I can also sort via tags
+I can also sort via tags and search throughout all my feeds.
 
 ![Tags I use](/blog/rss/rssTags.png)
 
