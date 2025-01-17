@@ -37,11 +37,10 @@ What I dreaded as a teenager has become my daily life for the past month.
 What started as a broken wifi router has become the longest period since I can
 remember without access to wifi (at least @home). As I regulary want to decrese my
 time spent on the internet this might be what I needed to finally reach a new
-milestone...is what I thought in the beginning. However, I can now unfortunatly
-say that the opposite has occured. I can still use my regular phone data to use
+milestone--is what I thought in the beginning. However, I can now, unfortunatly say that the opposite has occured. I can still use my regular phone data to use
 the internet and moreover, I have to start a hotspot when using my laptop
-(incl. work laptop) to study for university for example. Furhtermore, I can not
-use my desktop pc at all since it has no WLAN adapter, I can only access the
+(incl. work laptop) to study for university for example. Furthermore, I can not
+use my desktop pc at all since it has no WLAN adapter built in, I can only access the
 web using LAN which never posed a problem--until now; hard to use LAN from a
 hotspot. The only place I used some social media was on this stationary pc. My
 habit was physically split from the rest of my daily routine which worked quite
@@ -66,7 +65,7 @@ rarely relapsed. Reddit on the other hand lets one browser quite freely (though
 one can not upvote or comment which I hardly care about). I have, therefore,
 once again, become addicted to reddit and do not know how I can stop since I
 literally can not deinstall the browser (I don't have time to look up how to block
-the address or something similar as Im constantly browsing reddit) on my phone
+the address or something similar as I'm constantly browsing reddit) on my phone
 and I can not stop using my
 phone altogther; at least not yet.
 
@@ -78,3 +77,8 @@ can not wait for the wifi to arrive so I can--hopefully--once again stop using
 the internet (originally I planned on writing about the reason why there
 currently is no internet but I guess it turned into something else lol).
 
+## Edit: 17.01.2025
+
+We still do not have wifi. 
+
+However, my screen time has become humane again and I am reading more. The solution was truly just disallowing the domain. I have not reactivated it ever since disallowing it almost a month ago.

@@ -1,13 +1,13 @@
 ---
 title: 'Why I am using RSS and you should too'
-date: 2024-12-04T20:23:13+02:00
+date: 2025-01-16T20:23:13+02:00
 tags: ['blog']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 hideAuthor: true
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -34,7 +34,9 @@ UseHugoToc: true
 ---
 What a title huh? I figured that is how one starts a blog post. Get the readers attention etc. etc.
 
-I am assuming you have no clue what RSS is. If you do; [here is my feed!](https://fynnfr.org/blog/index.xml). If you do not, here is a small intro paraphrased from [https://ncase.me/rss/] (could and should prob just read their entire page; its certainly better than mine):
+I am assuming you have no clue what RSS is. If you do; [here is my feed!](https://fynnfr.org/blog/index.xml)
+
+If you do not, here is a small intro:
 
 ## What is RSS (Really Simple Syndication)?
 
@@ -42,9 +44,20 @@ RSS (Really Simple Syndication) is a user-controlled way to follow online conten
 
 Unlike email newsletters where you share your address with publishers (risking spam and data selling), RSS follows a "pull" rather than "push" model. An RSS feed is simply a text file on a website containing chronological posts, similar to a traditional newspaper format.
 
-You choose an RSS reader application - there are many options available from different developers - which then retrieves content only from the feeds you explicitly subscribe to. The websites can't push content to you; you control what you see. Your reader displays posts in reverse chronological order, though some apps offer optional filtering tools that remain under your control.
+You choose an RSS reader application--there are many options available with a good few being open source--which then retrieves content only from the feeds you explicitly subscribe to.
+The websites can not push content to you; you control what you see.
 
-While RSS was widely popular about 15 years ago, many users switched to commercial social media platforms. However, there's renewed interest in returning to this simpler, more user-controlled system. A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^1]
+While RSS was widely popular about 15 years ago, many users switched to commercial social media platforms.
+
+![Google Trends of RSS](/blog/rss/googleTrendsRSS.png)[^1]
+
+However, there's renewed interest in returning to this simpler, more user-controlled system (well, according to [^2]; can't really see a spike in google trends; prob just a vibe the orginal author is getting from their bubble. However, it should definitely make a bigger comeback. Doubt it will happen though). A similar technology called Atom exists alongside RSS, and modern reader apps support both formats.[^1]
+
+## Why should you use it?
+
+Did this not do the trick already?
 
 
-[^1]: [What is RSS](https://ncase.me/rss/)
+[^2]: Main source of the past section: [What is RSS](https://ncase.me/rss/)
+
+[^1]: [Google Trends of RSS](https://trends.google.com/trends/explore?date=all&q=RSS&hl=en-US)
