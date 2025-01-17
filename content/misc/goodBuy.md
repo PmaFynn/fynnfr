@@ -7,7 +7,7 @@ hideAuthor: true
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 #description: "Stuff I like, use and recommend"

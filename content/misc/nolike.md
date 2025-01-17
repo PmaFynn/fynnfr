@@ -8,7 +8,7 @@ author: "Me"
 showToc: false
 hideAuthor: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 

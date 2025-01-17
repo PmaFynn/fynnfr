@@ -1,7 +1,7 @@
 ---
-title: 'Past Lives'
-date: 2024-12-31T19:54:40+02:00
-tags: ['movie', 'Celine Song', 'Greta Lee', 'Teo Yoo', 'John Magaro']
+title: 'A month without wifi'
+date: 2024-12-04T20:23:13+02:00
+tags: ['blog']
 # weight: 1
 # aliases: ["/first"]
 author: "Me"
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: false
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ShowWordCount: false
@@ -32,7 +32,4 @@ UseHugoToc: true
 #     # relative: false # when using page bundles set this to true
 #     hidden: false # only hide on current single page
 ---
-Really fucking great movie.
-
-
-[IMDb](https://www.imdb.com/title/tt13238346/)
+[rss guide](https://ncase.me/rss/)
