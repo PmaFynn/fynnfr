@@ -64,8 +64,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hello
-    subtitle: "Hi, I'm Fynn. Welcome to my little corner of the internet!"
+    title: Hi
+    subtitle: "I'm Fynn. Welcome to my little corner of the internet!"
     imageUrl: "home/meButNice.png"
     imageWidth: 220
     imageHeight: 220
