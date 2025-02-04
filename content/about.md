@@ -5,19 +5,9 @@ draft = false
 +++
 I'm Fynn. 
 
-My interests are software, literature and, at least currently, western esotericism.
+My interests are software (i.e. FOSS), literature and, at least currently, western esotericism.
 
 Why am I writing this in english you may ask. Well, I just prefer english. I think it is a more fine and musical language. That is all there is to it.
-
-Buying stuff, huh? Great, is it not? Not really.
-However, there are a few items I genuinely don't regret buying: 
-- flyscreen
-- ergonomic keyboard
-- shopping trolley
-- most books
-- most second hand clothing
-- second hand ThinkPad
-- comfortable slippers
 
 I have no clue what else to put here. Though, I can recommend some software.
 
@@ -53,7 +43,19 @@ utilize a combination of the following tools:
 - [Typst](https://github.com/typst/typst)
 
 My favourite packages/tools are:
-dmenu, rclone, pass, neovim, tmux, buku.
+dmenu, rclone, pass, neovim, tmux, raindrop, newsboat.
 
 Some general preferences of mine include using Vim bindings wherever possible and binding Caps Lock to
 Ctrl.
+
+## On a different note:
+
+Buying stuff, huh? Great, is it not? Not really.
+However, there are a few items I genuinely don't regret buying: 
+- flyscreen
+- ergonomic keyboard
+- shopping trolley
+- most books
+- most second hand clothing
+- second hand ThinkPad
+- comfortable slippers
