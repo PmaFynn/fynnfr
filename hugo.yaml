@@ -89,6 +89,8 @@ params:
       url: "https://steamcommunity.com/profiles/76561198223632584/"
     - name: cv
       url: "https://cv.fynnfr.org"
+    - name: other
+      url: "https://raindrop.io/PmaFynn/recommendations-52141052"
 
   # analytics:
   #   google:
