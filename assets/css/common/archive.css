@@ -77,3 +77,15 @@
   text-decoration: underline;
 }
 
+a {
+  text-decoration: none;
+
+  &:link {
+    color: var(--blue);
+  }
+
+  &:hover,
+  &:visited {
+    color: var(--blue-dim);
+  }
+}
