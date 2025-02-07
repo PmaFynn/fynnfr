@@ -12,10 +12,10 @@
     --entry: #fbf1c7; /* Slightly darker light background */
     --primary: #282828; /* Dark text */
     --secondary: #504945; /* Muted dark text */
-    --tertiary: #665c54; /* Softer muted text */
+    --tertiary: #bdae93; /* Softer muted text */
     --content: #3c3836; /* Darker content text */
     --code-block-bg: #d5c4a1; /* Code block background */
-    --code-bg: #bdae93; /* Code background */
+    --code-bg: #fbf1c7; /* Code background */
     --border: #a89984; /* Soft border color */
 }
 
@@ -28,7 +28,7 @@
     --tertiary: #bdae93; /* Even more muted */
     --content: #ebdbb2; /* Very light text */
     --code-block-bg: #504945; /* Code block background */
-    --code-bg: #665c54; /* Code background */
+    --code-bg: #282828; /* Code background */
     --border: #7c6f64; /* Soft border color */
 }
 
