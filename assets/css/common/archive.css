@@ -71,15 +71,6 @@
 .post-group a {
   text-decoration: none;
   transition: text-decoration 0.3s ease;
-}
-
-.post-group a:hover {
-  text-decoration: underline;
-}
-
-a {
-  text-decoration: none;
-
   &:link {
     color: var(--blue);
   }
@@ -88,4 +79,8 @@ a {
   &:visited {
     color: var(--blue-dim);
   }
+}
+
+.post-group a:hover {
+  text-decoration: underline;
 }
