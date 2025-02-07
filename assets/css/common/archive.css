@@ -42,3 +42,38 @@
     color: var(--secondary);
     font-size: 14px;
 }
+.post-group > ul {
+  border-left: var(--fg4) solid var(--border);
+  list-style-type: none;
+  margin-left: 0.5rem;
+  padding-left: var(--margin);
+}
+
+.post-group > ul > li {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  line-height: 1.6;
+}
+
+.post-group > ul > li > time {
+  text-align: right;
+}
+
+@media screen and (min-width: var(--mobile-breakpoint)) {
+  .post-group > ul {
+    margin-left: 1rem;
+    padding-left: 2rem;
+  }
+}
+
+.post-group a {
+  text-decoration: none;
+  transition: text-decoration 0.3s ease;
+}
+
+.post-group a:hover {
+  text-decoration: underline;
+}
+
