@@ -19,7 +19,7 @@ is [Alacritty](https://alacritty.org/) though I am also trying out [Ghostty](htt
 For web browsing, I use
 [Firefox](https://www.mozilla.org/en-US/firefox/new/) configured with
 [BetterFox](https://github.com/yokoffing/BetterFox) user.js, and
-[DuckDuckGo](https://duckduckgo.com/) as my preferred search engine.
+[Kagi](https://kagi.com/) as my preferred search engine.
 
 Browsing without the following extensions is, however, virutally impossible:
 - [**uBlock

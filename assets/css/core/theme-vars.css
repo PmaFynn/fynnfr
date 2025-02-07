@@ -9,7 +9,7 @@
 
     /* Gruvbox Light Theme */
     --theme: #fbf1c7; /* Light background */
-    --entry: #ebdbb2; /* Slightly darker light background */
+    --entry: #fbf1c7; /* Slightly darker light background */
     --primary: #282828; /* Dark text */
     --secondary: #504945; /* Muted dark text */
     --tertiary: #665c54; /* Softer muted text */
