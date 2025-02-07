@@ -43,10 +43,10 @@
     font-size: 14px;
 }
 .post-group > ul {
-  border-left: var(--fg4) solid var(--border);
+  border-left: var(--fg4) solid 2px;
   list-style-type: none;
   margin-left: 0.5rem;
-  padding-left: var(--margin);
+  padding-left: 2rem;
 }
 
 .post-group > ul > li {
