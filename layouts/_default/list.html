@@ -4,13 +4,14 @@
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
+{{- if not .IsHome | and .Title }}
 <main id="main" class="archive">
   {{ $pages := union .RegularPages .Sections }}
 
-  {{ if .IsHome }}
-    {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
-  {{ end }}
+  <!--{{ if .IsHome }}-->
+  <!--  {{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}-->
+  <!--  {{ $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}-->
+  <!--{{ end }}-->
   
   {{ $paginator := .Paginate $pages }}
 
@@ -33,3 +34,6 @@
   </div>
 </main>
 {{ end }}
+{{- end }}{{/* end profileMode */}}
+
+{{- end }}{{- /* end main */ -}}
