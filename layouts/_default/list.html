@@ -1,11 +1,9 @@
-{{ define "head" }}
-{{ $options := dict "transpiler" "dartsass" "targetPath" "css/list.css" }}
-{{ with resources.Get "sass/layouts/list.scss" | toCSS $options | postCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ .Permalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-{{ end }}
-{{ end }}
-
 {{ define "main" }}
+
+{{- if (and site.Params.profileMode.enabled .IsHome) }}
+{{- partial "index_profile.html" . }}
+{{- else }} {{/* if not profileMode */}}
+
 <main id="main" class="archive">
   {{ $pages := union .RegularPages .Sections }}
 
