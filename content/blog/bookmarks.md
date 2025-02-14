@@ -36,7 +36,7 @@ The first is reserved for my essential/active/frequent (or whatever one might
 call these) bookmarks and the second is used for--well, you may guess.
 Lets start with the first one.
 
-## How I use (and manage) my essential bookmarks
+## How I use my essential bookmarks
 
 This method is rather primitive but works exceptionally well. You just keep
 your bookmarks (i.e. links) in a plain textfile. However, without the second
@@ -63,6 +63,8 @@ name, and the line is printed to stdout. dmenu_run is a wrapper that ships with
 the dmenu distribution that allows its use as an application launcher".
 
 For the purposes of this post the first part of dmenu's functionality is more important while most people, I reckon, know it for the second part i.e. as an application launcher (esp. for window managers).
+
+``bindsym $mod+i exec --no-startup-id sh -c 'xdotool type "$(grep -v "^#" ~/mega/bookmarks/bookmarks | dmenu -i -l 50 | cut -f2)"'``
 
 ### Benefits:
 
