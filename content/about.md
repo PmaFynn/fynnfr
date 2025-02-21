@@ -22,13 +22,11 @@ For web browsing, I use
 [Kagi](https://kagi.com/) as my preferred search engine.
 
 Browsing without the following extensions is, however, virutally impossible:
-- [**uBlock
-origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [I still don't care about
-cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
+- [**uBlock origin**](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
 - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
-- [SponsorBlock for
-Youtube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+- [SponsorBlock for Youtube](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+- [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos)
 
 For
 text editing, I use [Neovim](https://neovim.io/) with my fork of
