@@ -28,12 +28,19 @@ UseHugoToc: true
 ---
 ## Edit: 26.02.2025:
 
-I have recently discovered [calcurse](https://github.com/lfos/calcurse), a "text-based calendar and scheduling application", while looking for--you may be able to guess it--a text-based calendar and scheduling application. The Application also includes a feature to track todos. Naturally, this interested me as the application is also a TUI. However, as one is able to read below, one of the essential features I was looking for in a todo application was the possibilty to quickly insert tasks/todos from the terminal directly. As calcurse offers lots of lots of features I was optimistic that they have also implemented this...I was wrong.[^2] What a bummer. 
+I have recently discovered [calcurse](https://github.com/lfos/calcurse), a
+*text-based calendar and scheduling application*, while searching for—you may
+have guessed it—a text-based calendar and scheduling application. The
+application also includes a feature to track todos. Naturally, this interested
+me, as it is also a TUI (Text User Interface). However, as you will see below,
+one of the essential features I was looking for in a todo application was the
+ability to quickly insert tasks/todos directly from the terminal. Given that
+calcurse offers a plethora of features, I was optimistic that this
+functionality would be included. Unfortunately, I was wrong[^2]. What a bummer. 
 
 [^2]: [Feature request](https://github.com/lfos/calcurse/issues/463) -- Further, it is to note that nowadays the development of calcurse seems to be rather stagnant if not entirely stopped.
 
-Nonetheless, I continued using calcurse for its other features though the todo view always smiled at me. After a few days, after reading through the man page of calcurse for some other reasons I stumpled upon the files calcurse is making use of to store its states. Then it hit me. Why don't I just write a simple script that just inserts tasks/todos from the cli into this file tracking the todos. Well, that is exactly what I did; below the script in my .zshrc:
-
+Nonetheless, I continued using calcurse for its other features though the todo view always smiled at me. After a few days, while reading through the man page of calcurse for some other reasons, I stumpled upon the files that calcurse uses to store its states. Then it hit me—why not write a simple script to insert tasks/todos into this file directly from the CLI? So that’s exactly what I did. Below is the script in my .zshrc:
 ```sh
 td() {
     local prio="0"
@@ -56,7 +63,14 @@ td() {
 }
 ```
 
-Unfortunatly, while calcurse offers a multitude of features, some are missing. For example, I am unable to search through my todos and further I am unable to go directly to the top/bottom of the list. Quite annoying as I have been making use of these features in my own application quite a lot. I will, nonetheless, continue to use calcurse for my main todo list and test it out further. Moreover, I will also continue to use my own application for specific topics I want to track todos for mine allows me to use different files to track different kind of todos the following way:
+Unfortunately, while calcurse offers a multitude of features, some key
+functionalities are missing. For example, I cannot search through my todos, nor
+can I quickly navigate to the top or bottom of the list. This is quite
+annoying, as I frequently rely on these features in my own application.
+Nevertheless, I will continue using calcurse for my main todo list and test it
+further. Moreover, I will also continue to use my own application for specific
+topics I want to track todos for. Since mine allows me to use different files
+and hence different topics:
 
 ```sh
 # General syntax:
