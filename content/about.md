@@ -17,8 +17,7 @@ paired with [Zsh](https://zsh.sourceforge.io/) as my shell, enhanced by
 [*oh my zsh*](https://github.com/ohmyzsh/ohmyzsh). My terminal of choice
 is [Ghostty](https://ghostty.org/).
 For web browsing, I use
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) configured with
-[BetterFox](https://github.com/yokoffing/BetterFox) user.js, and
+[Firefox](https://www.mozilla.org/en-US/firefox/new/) and, as far as it is possible right now, [Ladybird](https://ladybird.org) with
 [Kagi](https://kagi.com/) as my preferred search engine.
 
 Browsing without the following extensions is, however, virutally impossible:
