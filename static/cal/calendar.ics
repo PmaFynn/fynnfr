@@ -1,0 +1,3616 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calcurse//NONSGML v4.8.1//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240910
+RRULE:FREQ=YEARLY
+SUMMARY:basti bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240913
+RRULE:FREQ=YEARLY
+SUMMARY:chrissen\, tizi bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240927
+RRULE:FREQ=YEARLY
+SUMMARY:alex bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241023
+RRULE:FREQ=YEARLY
+SUMMARY:mia bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241026
+RRULE:FREQ=YEARLY
+SUMMARY:brocki bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241031
+RRULE:FREQ=YEARLY
+SUMMARY:sven bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241117
+RRULE:FREQ=YEARLY
+SUMMARY:anna bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241208
+RRULE:FREQ=YEARLY
+SUMMARY:charly\, lina bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250118
+RRULE:FREQ=WEEKLY;UNTIL=20250118
+SUMMARY:etymology of one word
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250128
+RRULE:FREQ=YEARLY
+SUMMARY:carlos bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+RRULE:FREQ=YEARLY
+SUMMARY:schmals bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250215
+RRULE:FREQ=YEARLY
+SUMMARY:koni bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250324
+RRULE:FREQ=YEARLY
+SUMMARY:ben bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250330
+RRULE:FREQ=YEARLY
+SUMMARY:potentially cancel NewLeftReview subscription
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250517
+RRULE:FREQ=YEARLY
+SUMMARY:Nikolai\, Louis and Luke
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250530
+RRULE:FREQ=YEARLY
+SUMMARY:laura bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+RRULE:FREQ=YEARLY
+SUMMARY:potentially cancel Verso subscription
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+RRULE:FREQ=YEARLY
+SUMMARY:m4tth3w9 bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250929
+RRULE:FREQ=YEARLY
+SUMMARY:alex bday
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190810
+SUMMARY:Energie Cottbus - Bayern München [DFB]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200303
+SUMMARY:FC Schalke 04 - Bayern München [DFB] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240916
+SUMMARY:cancel gpt to use new email account
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240928
+SUMMARY:pause math academy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+SUMMARY:could not yet sign in to supply chain management
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241013
+SUMMARY:set up uni vpn\, log into flex now\, sign up to technology and innovation strategy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+SUMMARY:anmeldung vorgezogen deadline
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+SUMMARY:potentially cancel math academy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241028
+SUMMARY:Frauenfussball
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241030
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241107
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241115
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241124
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241205
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241207
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241211
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+SUMMARY:anmeldung regulaer deadline
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241212
+SUMMARY:signup for da1 case study
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241220
+SUMMARY:release of le comte de monte cristo in cinema
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250129
+SUMMARY:presentation of electives
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250215
+SUMMARY:call pc repair guy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250215
+SUMMARY:call pc repair guy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250220
+SUMMARY:call pc guy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250221
+SUMMARY:julia party
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250225
+SUMMARY:create detailed time schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250225
+SUMMARY:create study plan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250226
+SUMMARY:call pc repair guy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250227
+SUMMARY:karnevalbeginn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250301
+SUMMARY:Karnvalsgeburstag @clemens
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250403
+SUMMARY:check for one other course (ideally early exam)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250411
+SUMMARY:Gerda Geburtstag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250421
+SUMMARY:letzter anmeldetag vorgezogen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250430
+SUMMARY:check if aeg invoice arrived\; if it did not call them perhaps
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+SUMMARY:check for aeg response and call them otherwise
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+SUMMARY:first "production and retail" lecture
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250506
+SUMMARY:ruhig schonmal fuer die klausuren anmelden
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+SUMMARY:cancel google gemini!!
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250527
+SUMMARY:anmelden klausuren
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250612
+SUMMARY:letzter Anmeldetag regulaer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:Frank Geburtstag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250917
+SUMMARY:renew fynnfr.org domain on epik.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150809T160000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Nöttingen - Bayern München [DFB] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150814T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hamburger SV (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150822T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150829T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150912T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150919T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SV Darmstadt 98 - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150922T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150926T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151004T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151017T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151024T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151027T203000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München [DFB] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151030T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151107T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151121T183000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151128T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151205T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151212T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Ingolstadt 04 (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151215T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SV Darmstadt 98 [DFB] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151219T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hannover 96 - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160122T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Hamburger SV - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160131T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160206T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160210T203000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München [DFB] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160214T173000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160220T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SV Darmstadt 98 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160227T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160302T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160305T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160312T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160319T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160402T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160409T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160416T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160419T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen [DFB] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160423T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160430T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160507T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Ingolstadt 04 - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160514T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hannover 96 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160521T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund [DFB] (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160819T204500
+DURATION:P0DT1H45M0S
+SUMMARY:FC Carl Zeiss Jena - Bayern München [DFB] (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160826T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160909T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160913T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Rostov [CL] (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160917T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Ingolstadt 04 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160921T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160924T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hamburger SV - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160928T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Atlético Madrid - Bayern München [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161001T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161015T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - PSV [CL] (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161022T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161026T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg [DFB] (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161101T204500
+DURATION:P0DT1H45M0S
+SUMMARY:PSV - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161105T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161119T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161123T180000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Rostov - Bayern München [CL] (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161126T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161202T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161206T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Atlético Madrid [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161210T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161218T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SV Darmstadt 98 - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161221T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170120T203000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170128T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170204T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170207T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg [DFB] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Ingolstadt 04 - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170215T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Arsenal [CL] (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170218T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170225T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hamburger SV (8-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170301T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 [DFB] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170304T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170307T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Arsenal - Bayern München [CL] (1-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170311T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170319T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170404T200000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170412T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Real Madrid [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170418T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Real Madrid - Bayern München [CL] (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170422T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund [DFB] (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170429T183000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (0-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SV Darmstadt 98 (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T153000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (4-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170812T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Chemnitzer FC - Bayern München [DFB] (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170818T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170826T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T183000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RSC Anderlecht [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170916T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Paris Saint-Germain - Bayern München [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171001T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171014T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Celtic [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171021T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Hamburger SV - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T204500
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München [DFB] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171028T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171031T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Celtic - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171104T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171118T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T204500
+DURATION:P0DT1H45M0S
+SUMMARY:RSC Anderlecht - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171125T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171202T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hannover 96 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Paris Saint-Germain [CL] (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171209T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171216T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund [DFB] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180121T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180127T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (5-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180203T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180206T183000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Paderborn 07 - Bayern München [DFB] (0-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180210T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180217T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Beşiktaş [CL] (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180224T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180304T180000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180310T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hamburger SV (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T180000
+DURATION:P0DT1H45M0S
+SUMMARY:Beşiktaş - Bayern München [CL] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180318T180000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180331T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180403T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Sevilla FC - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180407T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180411T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Sevilla FC [CL] (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180414T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München [DFB] (2-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180421T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hannover 96 - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Real Madrid [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180428T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180501T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Real Madrid - Bayern München [CL] (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180505T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180512T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180519T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt [DFB] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180818T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SV Drochtersen/Assel - Bayern München [DFB] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180824T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180901T183000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180915T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180919T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Benfica - Bayern München [CL] (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180922T183000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180925T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180928T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181002T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Ajax [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181006T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181020T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181023T185500
+DURATION:P0DT1H45M0S
+SUMMARY:AEK Athene - Bayern München [CL] (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181027T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181030T204500
+DURATION:P0DT1H45M0S
+SUMMARY:SV Rodinghausen - Bayern München [DFB] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181103T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181107T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - AEK Athene [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181110T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181124T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Fortuna Düsseldorf (3-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181127T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Benfica [CL] (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181201T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181208T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Nürnberg (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181212T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Ajax - Bayern München [CL] (3-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181215T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hannover 96 - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181219T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181222T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190118T203000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190127T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190202T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190206T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München [DFB] (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190209T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190215T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190219T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Liverpool - Bayern München [CL] (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190223T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190302T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (1-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190309T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190313T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Liverpool [CL] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190317T180000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190330T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190403T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Heidenheim [DFB] (5-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190406T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190414T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Fortuna Düsseldorf - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190420T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190424T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München [DFB] (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190428T180000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Nürnberg - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190504T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hannover 96 (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190511T153000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190518T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190525T200000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München [DFB] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190816T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190824T183000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190831T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (6-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190914T183000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190918T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Red Star Belgrade [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190921T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190928T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Paderborn 07 - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191001T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Tottenham Hotspur - Bayern München [CL] (2-7)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191005T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191019T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191022T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Olympiakos Piraeus - Bayern München [CL] (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191026T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191029T200000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München [DFB]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191102T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191106T185500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Olympiakos Piraeus [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191109T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191123T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Fortuna Düsseldorf - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191126T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Red Star Belgrade - Bayern München [CL] (0-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191130T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191207T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191211T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Tottenham Hotspur [CL] (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191214T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (6-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191218T203000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191221T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200119T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200125T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200201T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200205T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim [DFB]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200209T180000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200216T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200221T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Paderborn 07 (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200225T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Chelsea - Bayern München [CL] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200229T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (0-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200308T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200318T210000
+DURATION:P0DT1H45M0S
+SUMMARY:⚠️ Postponed: Bayern München - Chelsea [CL]
+DESCRIPTION:⚠️ Postponed\nCalendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200517T180000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200523T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (5-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200526T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200530T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Fortuna Düsseldorf (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200606T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (2-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200610T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt [DFB] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200613T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200616T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200620T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200627T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200704T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München [DFB]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200808T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Chelsea [CL] (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200814T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Barcelona - Bayern München [CL] (2-8)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200819T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Olympique Lyonnais - Bayern München [CL] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200823T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Paris Saint-Germain - Bayern München [CL] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200918T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (8-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200927T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201004T180000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (4-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201015T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Düren Merzenich - Bayern München [DFB] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201017T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Arminia Bielefeld - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201021T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Atlético Madrid [CL] (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T185500
+DURATION:P0DT1H45M0S
+SUMMARY:FC Lokomotiv Moskou - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201103T210000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Salzburg - Bayern München [CL] (2-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201107T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201121T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201125T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Salzburg [CL] (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201128T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201201T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Atlético Madrid - Bayern München [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201205T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (3-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201209T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Lokomotiv Moskou [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201212T183000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201216T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201219T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210103T180000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (5-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210108T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210113T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Holstein Kiel - Bayern München [DFB] (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210113T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Holstein Kiel - Bayern München [DFB] (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210117T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210120T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210124T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210130T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210205T200000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210215T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Arminia Bielefeld (3-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210220T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T210000
+DURATION:P0DT1H45M0S
+SUMMARY:S.S. Lazio - Bayern München [CL] (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210227T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210306T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210313T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210317T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - S.S. Lazio [CL] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210403T183000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210407T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Paris Saint-Germain [CL] (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210413T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Paris Saint-Germain - Bayern München [CL] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210417T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210420T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210424T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210508T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210515T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210522T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (5-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210813T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210822T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210825T201500
+DURATION:P0DT1H45M0S
+SUMMARY:Bremer SV - Bayern München [DFB] (0-12)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210828T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210911T183000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210914T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Barcelona - Bayern München [CL] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210918T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Bochum (7-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210924T203000
+DURATION:P0DT1H45M0S
+SUMMARY:SpVgg Greuther Fürth - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210929T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Dynamo Kyiv [CL] (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211003T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211017T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (1-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211020T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Benfica - Bayern München [CL] (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211023T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211030T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München (2-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211102T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Benfica [CL] (5-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211106T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211119T203000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211123T184500
+DURATION:P0DT1H45M0S
+SUMMARY:Dynamo Kyiv - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211127T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Arminia Bielefeld (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211204T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211208T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Barcelona [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211211T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211214T183000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211217T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220107T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220115T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220123T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220205T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220212T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220216T210000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Salzburg - Bayern München [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SpVgg Greuther Fürth (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220226T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220308T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Salzburg [CL] (7-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220312T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220319T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220402T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (1-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220406T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Villarreal - Bayern München [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220409T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220412T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Villarreal [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220417T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Arminia Bielefeld - Bayern München (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220423T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220430T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220508T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220514T153500
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220730T203000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München [] (3-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220805T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (1-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220814T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220821T173000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München (0-7)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220827T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220831T204600
+DURATION:P0DT1H45M0S
+SUMMARY:FC Viktoria Köln - Bayern München [DFB] (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220903T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220907T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Inter - Bayern München [CL] (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220910T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220913T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Barcelona [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220917T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220930T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221004T184500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Viktoria Plzen [CL] (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221008T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221012T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Viktoria Plzen - Bayern München [CL] (2-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221016T193000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221019T204500
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München [DFB] (2-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221022T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221026T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Barcelona - Bayern München [CL] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221029T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (6-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221101T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Inter [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221105T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Hertha BSC - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221108T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (6-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221112T183000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Schalke 04 - Bayern München (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230120T203000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230124T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230128T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230201T204500
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München [DFB] (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230205T173000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (2-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230211T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Bochum (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230214T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Paris Saint-Germain - Bayern München [CL] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230218T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230226T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230304T183000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230308T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Paris Saint-Germain [CL] (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230311T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (5-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230319T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230401T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230404T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg [DFB] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230408T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230411T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Manchester City - Bayern München [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230415T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230419T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Manchester City [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230422T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230430T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Hertha BSC (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230506T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230513T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Schalke 04 (6-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230520T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230527T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230812T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig [] (0-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230818T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230827T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230902T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230915T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230920T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Manchester United [CL] (4-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230923T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Bochum (7-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230926T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Preußen Münster - Bayern München [DFB] (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230930T183000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231003T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Kopenhagen - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231008T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231021T183000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231024T184500
+DURATION:P0DT1H45M0S
+SUMMARY:Galatasaray - Bayern München [CL] (1-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231028T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SV Darmstadt 98 (8-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231101T204500
+DURATION:P0DT1H45M0S
+SUMMARY:FC Saarbrucken - Bayern München [DFB] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231104T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231108T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Galatasaray [CL] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231111T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Heidenheim (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231124T203000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Köln - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231129T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Kopenhagen [CL] (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231209T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231212T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Manchester United - Bayern München [CL] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231217T193000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231220T203000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240112T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240121T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240124T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240127T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240203T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240210T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240214T210000
+DURATION:P0DT1H45M0S
+SUMMARY:S.S. Lazio - Bayern München [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240218T173000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240224T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240301T203000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240305T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - S.S. Lazio [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05 (8-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240316T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SV Darmstadt 98 - Bayern München (2-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240330T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund (0-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240406T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Heidenheim - Bayern München (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240409T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Arsenal - Bayern München [CL] (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240413T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Köln (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240417T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Arsenal [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240420T183000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München (1-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240430T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Real Madrid [CL] (2-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240504T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Real Madrid - Bayern München [CL] (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240512T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240816T204500
+DURATION:P0DT1H45M0S
+SUMMARY:SSV Ulm 1846 - Bayern München [DFB] (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240825T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Wolfsburg - Bayern München (2-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240901T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SC Freiburg (2-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240914T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Holstein Kiel - Bayern München (1-6)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240917T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Dinamo Zagreb [CL] (9-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240921T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Werder Bremen - Bayern München (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240928T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241002T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Aston Villa - Bayern München [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241006T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Eintracht Frankfurt - Bayern München (3-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241019T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VfB Stuttgart (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241023T210000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Barcelona - Bayern München [CL] (4-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241027T153000
+DURATION:P0DT1H45M0S
+SUMMARY:VFL Bochum - Bayern München (0-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241030T204500
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München [DFB] (0-4)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241102T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1. FC Union Berlin (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241106T211500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Benfica [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241109T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FC St. Pauli - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241122T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC Augsburg (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241126T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Paris Saint-Germain [CL] (1-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241130T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Dortmund - Bayern München (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241203T204500
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen [DFB] (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241207T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1.FC Heidenheim (4-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241210T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Shakhtar Donetsk - Bayern München [CL] (1-5)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241214T153000
+DURATION:P0DT1H45M0S
+SUMMARY:FSV Mainz 05 - Bayern München (2-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241220T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - RB Leipzig (5-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250111T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Borussia Mönchengladbach - Bayern München (0-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250115T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - 1899 Hoffenheim (5-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250118T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Wolfsburg (3-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250122T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Feyenoord - Bayern München [CL] (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250125T153000
+DURATION:P0DT1H45M0S
+SUMMARY:SC Freiburg - Bayern München (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250129T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - SK Slovan Bratislava [CL] (3-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250201T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Holstein Kiel (4-3)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250207T203000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Werder Bremen (3-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250212T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Celtic - Bayern München [CL] (1-2)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250215T183000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München (0-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250217T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Rayo Vallecano
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmplg/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmplj/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmplm/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmplq/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpls/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmplB/2Xqbs\n\nX\nhttps://barca.events/f/vmplF/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmplH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmplR/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250218T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Celtic [CL] (1-1)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250222T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Las Palmas vs FC Barcelona
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmplT/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmplX/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmplZ/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpm3/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpm6/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpmc/2Xqbs\n\nX\nhttps://barca.events/f/vmpmf/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpmh/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpmx/2Xqbs\n\n
+LOCATION:Estadio Gran Canaria\, Las Palmas de Gran Canaria
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250223T173000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Eintracht Frankfurt (4-0)
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250225T213000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Atlético de Madrid
+DESCRIPTION:Spanish Copa Del Rey | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/N9YRq/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/N9YRr/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/N9YRs/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/N9YRt/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/N9YRv/2Xqbs\n\nFacebook\nhttps://barca.events/f/N9YRw/2Xqbs\n\nX\nhttps://barca.events/f/N9YRx/2Xqbs\n\nInstagram\nhttps://barca.events/f/N9YRy/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/N9YRC/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250228T203000
+DURATION:P0DT1H45M0S
+SUMMARY:VfB Stuttgart - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250302T161500
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Real Sociedad
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpmB/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpmG/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpmL/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpmQ/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpmV/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpmZ/2Xqbs\n\nX\nhttps://barca.events/f/vmpn4/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpn8/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpnk/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Benfica vs FC Barcelona
+DESCRIPTION:UEFA Champions League | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/NpvDv/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/NpvDw/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/NpvDx/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/NpvDy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/NpvDz/2Xqbs\n\nFacebook\nhttps://barca.events/f/NpvDB/2Xqbs\n\nX\nhttps://barca.events/f/NpvDC/2Xqbs\n\nInstagram\nhttps://barca.events/f/NpvDD/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/NpvDH/2Xqbs\n\n
+LOCATION:Estádio da Luz\, Lisbon
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250305T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Bayer Leverkusen [CL]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250308T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - VFL Bochum
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250308T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Osasuna
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpnp/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpnv/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpnz/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpnD/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpnK/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpnR/2Xqbs\n\nX\nhttps://barca.events/f/vmpnW/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpp1/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmppm/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T184500
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Benfica
+DESCRIPTION:UEFA Champions League | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/NpvDJ/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/NpvDK/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/NpvDL/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/NpvDM/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/NpvDN/2Xqbs\n\nFacebook\nhttps://barca.events/f/NpvDP/2Xqbs\n\nX\nhttps://barca.events/f/NpvDQ/2Xqbs\n\nInstagram\nhttps://barca.events/f/NpvDR/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/NpvDV/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250311T210000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayer Leverkusen - Bayern München [CL]
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250315T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1. FC Union Berlin - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250316T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Atlético de Madrid vs FC Barcelona
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmppt/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmppx/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmppJ/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmppL/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmppQ/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmppV/2Xqbs\n\nX\nhttps://barca.events/f/vmppZ/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpq2/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpqg/2Xqbs\n\n
+LOCATION:Riyadh Air Metropolitano\, Madrid
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250317T204500
+SUMMARY:hart aber fair mit ole nymon
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250329T153000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FC St. Pauli
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250330T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Girona  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpqm/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpqq/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpqs/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpqz/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpqC/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpqH/2Xqbs\n\nX\nhttps://barca.events/f/vmpqL/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpqQ/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpr3/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250402T213000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Atlético de Madrid vs FC Barcelona
+DESCRIPTION:Spanish Copa Del Rey | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/N9YRD/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/N9YRF/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/N9YRG/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/N9YRH/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/N9YRJ/2Xqbs\n\nFacebook\nhttps://barca.events/f/N9YRK/2Xqbs\n\nX\nhttps://barca.events/f/N9YRL/2Xqbs\n\nInstagram\nhttps://barca.events/f/N9YRM/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/N9YRQ/2Xqbs\n\n
+LOCATION:Riyadh Air Metropolitano\, Madrid
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250405T020000
+DURATION:P0DT1H45M0S
+SUMMARY:FC Augsburg - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250406T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Real Betis  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpr8/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmprj/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmprm/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmprp/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmprt/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpry/2Xqbs\n\nX\nhttps://barca.events/f/vmprB/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmprH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmprS/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T153000
+DURATION:P0DT0H30M0S
+SUMMARY:Kennenlernen ARAG
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250408T210000
+DURATION:P0DT2H0M0S
+SUMMARY:bayern vs some other team in championsleague
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250409T210000
+DURATION:P0DT2H0M0S
+SUMMARY:Dortmund vs Barca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250412T020000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Dortmund
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250413T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Leganés vs FC Barcelona  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmprW/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmprZ/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmps5/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmps7/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpsb/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpsj/2Xqbs\n\nX\nhttps://barca.events/f/vmpsl/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpsq/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpsz/2Xqbs\n\n
+LOCATION:Butarque\, Leganés\, Madrid
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250416T081500
+DURATION:P0DT1H30M0S
+SUMMARY:Kick off crypto seminar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250419T020000
+DURATION:P0DT1H45M0S
+SUMMARY:1.FC Heidenheim - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250420T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Celta de Vigo  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpsF/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpsJ/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpsN/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpsQ/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpsV/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpsZ/2Xqbs\n\nX\nhttps://barca.events/f/vmpt4/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpt8/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpth/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T070000
+DURATION:P0DT10H0M0S
+SUMMARY:Waschmaschinenreparatur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250423T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Mallorca  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmptn/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpts/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmptv/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmptz/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmptF/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmptJ/2Xqbs\n\nX\nhttps://barca.events/f/vmptM/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmptP/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmptW/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250426T020000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - FSV Mainz 05
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250503T020000
+DURATION:P0DT1H45M0S
+SUMMARY:RB Leipzig - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250504T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Real Valladolid vs FC Barcelona  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpv1/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpv5/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpv8/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpvd/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpvh/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpvl/2Xqbs\n\nX\nhttps://barca.events/f/vmpvp/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpvs/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpvD/2Xqbs\n\n
+LOCATION:José Zorrilla\, Valladolid
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250510T020000
+DURATION:P0DT1H45M0S
+SUMMARY:Bayern München - Borussia Mönchengladbach
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250511T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Real Madrid  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpvK/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpvP/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpvS/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpvW/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpvZ/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpw6/2Xqbs\n\nX\nhttps://barca.events/f/vmpwf/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpwj/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpwq/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250514T210000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Espanyol vs FC Barcelona  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpws/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpwv/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpww/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpwy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpwC/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpwF/2Xqbs\n\nX\nhttps://barca.events/f/vmpwG/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpwK/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpwR/2Xqbs\n\n
+LOCATION:RCDE Stadium\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250517T153000
+DURATION:P0DT1H45M0S
+SUMMARY:1899 Hoffenheim - Bayern München
+DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250518T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ FC Barcelona vs Villarreal  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpwV/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpwW/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpwY/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpx4/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpx6/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpx7/2Xqbs\n\nX\nhttps://barca.events/f/vmpx9/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpxc/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpxk/2Xqbs\n\n
+LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250525T170000
+DURATION:P0DT2H0M0S
+SUMMARY:⚽️ Athletic Club vs FC Barcelona  (Time TBC)
+DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpxn/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpxr/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpxv/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpxy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpxB/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpxD/2Xqbs\n\nX\nhttps://barca.events/f/vmpxG/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpxH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpxS/2Xqbs\n\n
+LOCATION:San Mamés\, Bilbao
+BEGIN:VALARM
+TRIGGER:-P300S
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:sync calendar to iphone
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:uni: do da2 case study
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:uni: write detailed jupyter notebook (can be viewed on ipad)
+DESCRIPTION:can be viewed (not executed) on ipad via "Juno". symbolic link to mega repository to get it on ipad
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:rechtschutsversicherung
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:tk nach dieser random bestaetigung fragen
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:continue working on algorithm visualization
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:learn to use search for command in history -- its strg+r
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:why and how I use bookmarks blog entry
+END:VTODO
+BEGIN:VTODO
+PRIORITY:5
+SUMMARY:write blog post about football page (i.e. cloudflare worker)
+END:VTODO
+BEGIN:VTODO
+PRIORITY:8
+SUMMARY:argumenteGegenRechts weiter schreiben
+END:VTODO
+BEGIN:VTODO
+PRIORITY:8
+SUMMARY:fix algo vis that one can not esc out of heap sort
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:add redirect extension to about me blog
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:git exercises
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:maintain setup.md
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:make more use of entr again
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:perhaps write blog post about shit word
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:personal: contact TK for steuer
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:use "svi" and "fcd" often
+DESCRIPTION:svi => search file and open in vi\nfcd => search file and change directory to its location
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:use ladybird more
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:use vim file marks
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:add blog post how I fixed my todo problems
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:add lingva latina audiobook to phone
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:change firefox to floorp in website
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:change mega dir on linux
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:crypto google cloud storage
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:fb.fynnfr.org: add actual time to games and not just countdown
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:finish small blog post about bundeszentrale politsche bildung
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:fix webpage
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:football-api for barca
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:its "svi" and "fcd" to search for file
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:merge to calcurse xD
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:put pass imprtant stuff on another usb
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:remove that one is better or worse
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:rewatch calcus series from beginning and make notes
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:surplus produce tweets
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:uni: create zoom meeting
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:uni: sign up for exams
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:write even bigger webpage with new api
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:write script that inserts todos into todo file directly
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:look into calcurse functinalities
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:make detailed time schedule for each day
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:set regular wallpaper chagne in i3
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:uni: fill zotero with crytpo stuff
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:update about section i nblog to incldue ladybird
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:fix header for ipads
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:optimize space in webpages i.e. remove/compress images
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
+SUMMARY:use "td" for specific todos and calcurse for rest
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:5
+SUMMARY:remove underline for rss link
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:5
+SUMMARY:set up nvim typst setup
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:5
+SUMMARY:update td blog post that I found calcurse
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:look into GOOD search engine after kagi
+STATUS:COMPLETED
+END:VTODO
+END:VCALENDAR
