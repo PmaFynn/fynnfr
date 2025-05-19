@@ -77,6 +77,16 @@ RRULE:FREQ=YEARLY
 SUMMARY:Nikolai\, Louis and Luke
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250519
+RRULE:FREQ=YEARLY
+SUMMARY:Uli geburstag
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250524
+RRULE:FREQ=YEARLY
+SUMMARY:steffan geburtstag
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250530
 RRULE:FREQ=YEARLY
 SUMMARY:laura bday
@@ -259,8 +269,12 @@ DTSTART;VALUE=DATE:20250515
 SUMMARY:classify first years as -1
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250524
-SUMMARY:steffan geburtstag
+DTSTART;VALUE=DATE:20250519
+SUMMARY:engineer new features (look todo below) and focus on extra_trees
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250520
+SUMMARY:hypertune best model 
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250527
@@ -3383,6 +3397,10 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250521T090000
+SUMMARY:deadline for supervised learning
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250521T210000
 DURATION:P0DT0H2M0S
 SUMMARY:europo league finals (son is playing with the spurs)
@@ -3404,21 +3422,43 @@ ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250526T140000
+DURATION:P0DT2H0M0S
+SUMMARY:Zahnarzt termin
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250530T200000
 DURATION:P0DT2H0M0S
 SUMMARY:basti garten party in dortmund
 END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:best features for time series
-END:VTODO
-BEGIN:VTODO
-PRIORITY:1
 SUMMARY:better final pipeline
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:think of alternative to filling in 0 for nan
+SUMMARY:clean up git commit history
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:create more features of the good stuff (including interaction feature*other_feature of best 5 features) (focus on extra_trees)
+DESCRIPTION:### 2. **Long-Term Trends**\n\nMeasure vegetation health trajectory over time.\n\n| Feature                | Notes                                                 |\n| ---------------------- | ----------------------------------------------------- |\n| `NDVI slope` (5-year)  | Linear regression of NDVI over `[t-5\, t]`             |\n| `NDVI slope` (10-year) | Detects **gradual degradation or recovery**           |\n| `Max drop in NDVI`     | Max difference between any 2 years in trailing window |\n| `Number of declines`   | Count of `NDVI[t] < NDVI[t-1]` in trailing window     |\n\n📈 Trends are helpful for spotting **slow-acting disturbances** (like pests or disease).\n\n---\n\n### 3. **Historical Baseline vs. Current**\n\nCompare current year to historical reference period (e.g.\, first 10 years).\n\n| Feature                | Description                                       |\n| ---------------------- | ------------------------------------------------- |\n| `NDVI anomaly`         | `NDVI[t] - mean(NDVI[baseline])`                  |\n| `Relative NDVI change` | `(NDVI[t] - baseline_mean) / baseline_mean`       |\n| `NDVI percentile`      | Percentile rank of current NDVI among past values |\n\n🔍 This helps spot **deviation from long-term norms**.\n\n---\n\n### 4. **Volatility / Variability**\n\nHow "unstable" has vegetation been?\n\n| Feature                         | Description                |\n| ------------------------------- | -------------------------- |\n| `NDVI std (5-year)`             | Rolling standard deviation |\n| `NDVI range (5-year)`           | Max - min over 5 years     |\n| `NDVI coefficient of variation` | Std / Mean                 |\n\n⚠️ Spikes in variability can precede or follow disturbances.\n\n---\n\n### 5. **Phenology Proxies**\n\nEven with annual data\, you can approximate seasonal shifts:\n\n| Feature                          | Description                      |\n| -------------------------------- | -------------------------------- |\n| `Timing of lowest NDVI`          | Which year had lowest value?     |\n| `Post-disturbance recovery time` | Years since lowest NDVI occurred |\n| `NDVI recovery slope`            | From lowest NDVI to present      |\n\n🌱 These help with **detecting recovery** after disturbance or **delayed responses**.\n\n---\n\n## 🛠 Example: Feature Set for Year `t`\n\nFor each pixel-year pair\, you could generate features like:\n\n```python\n{\n  "ndvi": NDVI[t]\,\n  "delta_ndvi_1yr": NDVI[t] - NDVI[t-1]\,\n  "delta_ndvi_3yr": NDVI[t] - NDVI[t-3]\,\n  "ndvi_slope_5yr": slope(NDVI[t-5:t])\,\n  "ndvi_std_3yr": std(NDVI[t-2:t])\,\n  "ndvi_anomaly": NDVI[t] - mean(NDVI[0:t-1])\,\n  "z_score": (NDVI[t] - μ_seasonal[t]) / σ_seasonal[t]\,\n  "ndvi_percentile": percentile(NDVI[t] vs NDVI[0:t-1])\,\n  ...\n}\n```\n\nRepeat this for each year from \\~1990 to 2025 per pixel.\n\n---\n\n## 🔄 Temporal Labeling Consideration\n\nIf you're labeling disturbances\, be sure to:\n\n* **Lag your features** slightly so you don’t "peek into the future"\n* Optionally use features **from year t-1** to predict disturbance in year `t`\n\n---\n\n## 🧰 Tools to Use\n\n* **Pandas**: time window calculations\n* **Scikit-learn**: regression slopes\, z-scores\n* **Tsfresh**: automated time series feature extraction\n* **NumPy**: fast rolling stats\n* **Earth Engine / Rasterio**: preprocessing and per-pixel NDVI/NBR\n\n---\n\nWould you like
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:isolation forest
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:look into calibratedClassifierCV
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:look into why is_first year has such a high importance
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:try the gemini referal link
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
@@ -3431,7 +3471,7 @@ DESCRIPTION:can be viewed (not executed) on ipad via "Juno". symbolic link to me
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:use cross validation somehwo
+SUMMARY:work through the pinned gemini thread regaring features!!!! 
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
@@ -3504,6 +3544,11 @@ SUMMARY:use vim file marks
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:add binary column for first column or not
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:add blog post how I fixed my todo problems
 STATUS:COMPLETED
 END:VTODO
@@ -3514,12 +3559,22 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:best features for time series
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:change firefox to floorp in website
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:change mega dir on linux
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:combine extraTrees\, cat_boost and lightgbm and let majority vote decide
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -3535,6 +3590,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:fb.fynnfr.org: add actual time to games and not just countdown
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:fill in difference to mean of pixel instead of zero
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -3594,12 +3654,22 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:run all models and do a majority vote from all of them to decide which is disturbance and which is not
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:surplus produce tweets
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:sync calendar to iphone
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:think of alternative to filling in 0 for nan
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -3615,6 +3685,16 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:uni: sign up for exams
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:use cross validation somehwo
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:weighted average of all years with np.nanmean instead of 3
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
