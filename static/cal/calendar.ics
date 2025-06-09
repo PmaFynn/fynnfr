@@ -102,6 +102,11 @@ RRULE:FREQ=YEARLY
 SUMMARY:Oma geburstag
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+RRULE:FREQ=YEARLY
+SUMMARY:Paul bday
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 RRULE:FREQ=YEARLY
 SUMMARY:potentially cancel Verso subscription
@@ -3526,6 +3531,14 @@ SUMMARY:Zahnarzttermin: Dr. Metten
 END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:add imdb sharelink to links
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:also write review of The Handmaiden
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:look into when to use \;
 END:VTODO
 BEGIN:VTODO
@@ -3558,10 +3571,6 @@ SUMMARY:pullup my nvim config
 END:VTODO
 BEGIN:VTODO
 PRIORITY:4
-SUMMARY:continue working on algorithm visualization
-END:VTODO
-BEGIN:VTODO
-PRIORITY:4
 SUMMARY:learn to use search for command in history -- its strg+r
 END:VTODO
 BEGIN:VTODO
@@ -3573,20 +3582,17 @@ PRIORITY:4
 SUMMARY:why and how I use bookmarks blog entry
 END:VTODO
 BEGIN:VTODO
-PRIORITY:5
-SUMMARY:write blog post about football page (i.e. cloudflare worker)
-END:VTODO
-BEGIN:VTODO
 PRIORITY:8
 SUMMARY:argumenteGegenRechts weiter schreiben
 END:VTODO
 BEGIN:VTODO
-PRIORITY:8
-SUMMARY:fix algo vis that one can not esc out of heap sort
+PRIORITY:0
+SUMMARY:git exercises
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
-SUMMARY:git exercises
+SUMMARY:look into yubikeys again
+DESCRIPTION:will\, however\, have to buy two then
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -3599,10 +3605,6 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:personal: contact TK for steuer
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:telekom vertrag bei Herr arts nachfragen
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -3948,6 +3950,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:look into GOOD search engine after kagi
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:telekom vertrag bei Herr arts nachfragen
 STATUS:COMPLETED
 END:VTODO
 END:VCALENDAR
