@@ -107,6 +107,11 @@ RRULE:FREQ=YEARLY
 SUMMARY:Paul bday
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250718
+RRULE:FREQ=MONTHLY
+SUMMARY:backup zotero
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250905
 RRULE:FREQ=YEARLY
 SUMMARY:potentially cancel Verso subscription
@@ -330,6 +335,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250615
 SUMMARY:rot muelltonne rausstellen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+SUMMARY:Dusche sauber machen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250616
+SUMMARY:Pakete wegbringen
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250616
@@ -3547,11 +3560,15 @@ SUMMARY:Zahnarzttermin: Dr. Metten
 END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:add imdb sharelink to links
+SUMMARY:Kueche sauber machen
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:also write review of The Handmaiden
+SUMMARY:add letterbox review of un chien anda and meeting the man to obsidian
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:dusche sauber machen
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
@@ -3559,15 +3576,11 @@ SUMMARY:look into when to use \;
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:think of backup for zotero
+SUMMARY:pakete wegbringen
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:white nights excerpt
-END:VTODO
-BEGIN:VTODO
-PRIORITY:1
-SUMMARY:write a manifesto of what to do and what not -- e.g.\, allow to browse nitter.poast.org on pc only\; never on phone
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
@@ -3582,16 +3595,20 @@ PRIORITY:2
 SUMMARY:tk nach dieser random bestaetigung fragen
 END:VTODO
 BEGIN:VTODO
+PRIORITY:2
+SUMMARY:watch --la commune-- movie
+END:VTODO
+BEGIN:VTODO
+PRIORITY:3
+SUMMARY:call ben
+END:VTODO
+BEGIN:VTODO
 PRIORITY:3
 SUMMARY:pullup my nvim config
 END:VTODO
 BEGIN:VTODO
 PRIORITY:4
 SUMMARY:learn to use search for command in history -- its strg+r
-END:VTODO
-BEGIN:VTODO
-PRIORITY:4
-SUMMARY:read peter schadt newsletter on crypto
 END:VTODO
 BEGIN:VTODO
 PRIORITY:4
@@ -3648,7 +3665,17 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:add letterbox link
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:add lingva latina audiobook to phone
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:also write review of The Handmaiden
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -3844,6 +3871,11 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:think of backup for zotero
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:train different models on different cores
 STATUS:COMPLETED
 END:VTODO
@@ -3895,6 +3927,11 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:write Roma review
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:write even bigger webpage with new api
 STATUS:COMPLETED
 END:VTODO
@@ -3926,6 +3963,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:2
 SUMMARY:update about section i nblog to incldue ladybird
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:3
+SUMMARY:bei momox nachfragen woran es liegt
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
