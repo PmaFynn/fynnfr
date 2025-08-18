@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//calcurse//NONSGML v4.8.1//EN
+PRODID:-//calcurse//NONSGML v4.8.2//EN
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240910
 RRULE:FREQ=YEARLY
@@ -416,18 +416,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
 SUMMARY:Proton mail plus renewal (check discount code or something)
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250708T192500
-DURATION:P0DT2H5M0S
-RRULE:FREQ=WEEKLY
-SUMMARY:soccer training
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250710T192500
-DURATION:P0DT2H5M0S
-RRULE:FREQ=WEEKLY
-SUMMARY:soccer training
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T190000
@@ -3220,7 +3208,7 @@ SUMMARY:⚽️ FC Barcelona vs Rayo Vallecano
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmplg/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmplj/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmplm/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmplq/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpls/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmplB/2Xqbs\n\nX\nhttps://barca.events/f/vmplF/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmplH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmplR/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3237,7 +3225,7 @@ SUMMARY:⚽️ Las Palmas vs FC Barcelona
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmplT/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmplX/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmplZ/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpm3/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpm6/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpmc/2Xqbs\n\nX\nhttps://barca.events/f/vmpmf/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpmh/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpmx/2Xqbs\n\n
 LOCATION:Estadio Gran Canaria\, Las Palmas de Gran Canaria
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3254,7 +3242,7 @@ SUMMARY:⚽️ FC Barcelona vs Atlético de Madrid
 DESCRIPTION:Spanish Copa Del Rey | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/N9YRq/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/N9YRr/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/N9YRs/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/N9YRt/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/N9YRv/2Xqbs\n\nFacebook\nhttps://barca.events/f/N9YRw/2Xqbs\n\nX\nhttps://barca.events/f/N9YRx/2Xqbs\n\nInstagram\nhttps://barca.events/f/N9YRy/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/N9YRC/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3271,7 +3259,7 @@ SUMMARY:⚽️ FC Barcelona vs Real Sociedad
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpmB/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpmG/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpmL/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpmQ/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpmV/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpmZ/2Xqbs\n\nX\nhttps://barca.events/f/vmpn4/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpn8/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpnk/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3282,7 +3270,7 @@ SUMMARY:⚽️ Benfica vs FC Barcelona
 DESCRIPTION:UEFA Champions League | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/NpvDv/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/NpvDw/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/NpvDx/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/NpvDy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/NpvDz/2Xqbs\n\nFacebook\nhttps://barca.events/f/NpvDB/2Xqbs\n\nX\nhttps://barca.events/f/NpvDC/2Xqbs\n\nInstagram\nhttps://barca.events/f/NpvDD/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/NpvDH/2Xqbs\n\n
 LOCATION:Estádio da Luz\, Lisbon
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3305,7 +3293,7 @@ SUMMARY:⚽️ FC Barcelona vs Osasuna
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpnp/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpnv/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpnz/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpnD/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpnK/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpnR/2Xqbs\n\nX\nhttps://barca.events/f/vmpnW/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpp1/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmppm/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3316,7 +3304,7 @@ SUMMARY:⚽️ FC Barcelona vs Benfica
 DESCRIPTION:UEFA Champions League | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/NpvDJ/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/NpvDK/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/NpvDL/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/NpvDM/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/NpvDN/2Xqbs\n\nFacebook\nhttps://barca.events/f/NpvDP/2Xqbs\n\nX\nhttps://barca.events/f/NpvDQ/2Xqbs\n\nInstagram\nhttps://barca.events/f/NpvDR/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/NpvDV/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3339,7 +3327,7 @@ SUMMARY:⚽️ Atlético de Madrid vs FC Barcelona
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmppt/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmppx/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmppJ/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmppL/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmppQ/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmppV/2Xqbs\n\nX\nhttps://barca.events/f/vmppZ/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpq2/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpqg/2Xqbs\n\n
 LOCATION:Riyadh Air Metropolitano\, Madrid
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3360,7 +3348,7 @@ SUMMARY:⚽️ FC Barcelona vs Girona  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpqm/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpqq/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpqs/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpqz/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpqC/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpqH/2Xqbs\n\nX\nhttps://barca.events/f/vmpqL/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpqQ/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpr3/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3371,7 +3359,7 @@ SUMMARY:⚽️ Atlético de Madrid vs FC Barcelona
 DESCRIPTION:Spanish Copa Del Rey | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/N9YRD/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/N9YRF/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/N9YRG/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/N9YRH/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/N9YRJ/2Xqbs\n\nFacebook\nhttps://barca.events/f/N9YRK/2Xqbs\n\nX\nhttps://barca.events/f/N9YRL/2Xqbs\n\nInstagram\nhttps://barca.events/f/N9YRM/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/N9YRQ/2Xqbs\n\n
 LOCATION:Riyadh Air Metropolitano\, Madrid
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3388,7 +3376,7 @@ SUMMARY:⚽️ FC Barcelona vs Real Betis  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpr8/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmprj/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmprm/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmprp/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmprt/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpry/2Xqbs\n\nX\nhttps://barca.events/f/vmprB/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmprH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmprS/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3420,7 +3408,7 @@ SUMMARY:⚽️ Leganés vs FC Barcelona  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmprW/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmprZ/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmps5/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmps7/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpsb/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpsj/2Xqbs\n\nX\nhttps://barca.events/f/vmpsl/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpsq/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpsz/2Xqbs\n\n
 LOCATION:Butarque\, Leganés\, Madrid
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3442,7 +3430,7 @@ SUMMARY:⚽️ FC Barcelona vs Celta de Vigo  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpsF/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpsJ/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpsN/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpsQ/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpsV/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpsZ/2Xqbs\n\nX\nhttps://barca.events/f/vmpt4/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpt8/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpth/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3458,7 +3446,7 @@ SUMMARY:⚽️ FC Barcelona vs Mallorca  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmptn/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpts/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmptv/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmptz/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmptF/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmptJ/2Xqbs\n\nX\nhttps://barca.events/f/vmptM/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmptP/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmptW/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3481,7 +3469,7 @@ SUMMARY:⚽️ Real Valladolid vs FC Barcelona  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpv1/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpv5/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpv8/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpvd/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpvh/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpvl/2Xqbs\n\nX\nhttps://barca.events/f/vmpvp/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpvs/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpvD/2Xqbs\n\n
 LOCATION:José Zorrilla\, Valladolid
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3498,7 +3486,7 @@ SUMMARY:⚽️ FC Barcelona vs Real Madrid  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpvK/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpvP/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpvS/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpvW/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpvZ/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpw6/2Xqbs\n\nX\nhttps://barca.events/f/vmpwf/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpwj/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpwq/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3509,7 +3497,7 @@ SUMMARY:⚽️ Espanyol vs FC Barcelona  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpws/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpwv/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpww/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpwy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpwC/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpwF/2Xqbs\n\nX\nhttps://barca.events/f/vmpwG/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpwK/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpwR/2Xqbs\n\n
 LOCATION:RCDE Stadium\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3531,7 +3519,7 @@ SUMMARY:⚽️ FC Barcelona vs Villarreal  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpwV/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpwW/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpwY/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpx4/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpx6/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpx7/2Xqbs\n\nX\nhttps://barca.events/f/vmpx9/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpxc/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpxk/2Xqbs\n\n
 LOCATION:Estadi Olímpic Lluís Companys\, Barcelona
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3556,7 +3544,7 @@ SUMMARY:⚽️ Athletic Club vs FC Barcelona  (Time TBC)
 DESCRIPTION:LaLiga Season 2024-2025 | FC Barcelona\n\nGet your tickets\nhttps://barca.events/f/vmpxn/2Xqbs\n\nGet the shirt\nhttps://barca.events/f/vmpxr/2Xqbs\n\nJoin Culers\nhttps://barca.events/f/vmpxv/2Xqbs\n\nDownload the iOS App on the App Store\nhttps://barca.events/f/vmpxy/2Xqbs\n\nDownload the Android App on the Google Play Store\nhttps://barca.events/f/vmpxB/2Xqbs\n\nFacebook\nhttps://barca.events/f/vmpxD/2Xqbs\n\nX\nhttps://barca.events/f/vmpxG/2Xqbs\n\nInstagram\nhttps://barca.events/f/vmpxH/2Xqbs\n\nManage my ECAL\nhttps://barca.events/f/vmpxS/2Xqbs\n\n
 LOCATION:San Mamés\, Bilbao
 BEGIN:VALARM
-TRIGGER:-P300S
+TRIGGER:-PT300S
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -3653,25 +3641,31 @@ DURATION:P0DT1H30M0S
 SUMMARY:Deep larning: exam
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250818T063000
+SUMMARY:finish 90% main part - discussion meeting
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250828T090000
+SUMMARY:deadline for submisison
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250828T093000
+DURATION:P0DT4H30M0S
+SUMMARY:crypto presentation
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251127T143000
 DURATION:P0DT0H45M0S
 SUMMARY:Zahnarzttermin: Dr. Metten
 END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:learn byte pair encoding (easy)
+SUMMARY:write introduction\, background and my main part (trump presidency)
+DESCRIPTION:read two chatgpt background papers and merge them while validating all sources\n	perhaps define classes of potential influence categorized into the broader sections of formal and informal influence\nread main chatgpt paper and generate a new one (with chatgpt tasked to fit influences into defined classes) after having written the background\; also merge them\nwrite introduction in after\n\n
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
 SUMMARY:do some sql exercises/book
-END:VTODO
-BEGIN:VTODO
-PRIORITY:2
-SUMMARY:rechtschutsversicherung abschliessen
-END:VTODO
-BEGIN:VTODO
-PRIORITY:2
-SUMMARY:tk nach dieser random bestaetigung fragen
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
@@ -3695,6 +3689,10 @@ SUMMARY:argumenteGegenRechts weiter schreiben
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
+SUMMARY:fill in movies
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
 SUMMARY:git exercises
 END:VTODO
 BEGIN:VTODO
@@ -3713,6 +3711,10 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:personal: contact TK for steuer
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:sl\, ul\, di als track beim pruefungsamt anmelden (nach erhalt der klausuren)
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -3916,6 +3918,11 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:learn byte pair encoding (easy)
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:learn plan erstellen
 STATUS:COMPLETED
 END:VTODO
@@ -4052,6 +4059,12 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:techniker email zu gesundheitvorsorge lesen
+DESCRIPTION:Also zb. krebsvorsorge\, i.e.\, alle muttermale mal abchecken etc. etc.
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:telekom fixen
 STATUS:COMPLETED
 END:VTODO
@@ -4158,7 +4171,17 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
+SUMMARY:rechtschutsversicherung abschliessen
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
 SUMMARY:set regular wallpaper chagne in i3
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
+SUMMARY:tk nach dieser random bestaetigung fragen
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
