@@ -127,11 +127,6 @@ RRULE:FREQ=YEARLY
 SUMMARY:m4tth3w9 bday
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250929
-RRULE:FREQ=YEARLY
-SUMMARY:alex bday
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20190810
 SUMMARY:Energie Cottbus - Bayern München [DFB]
 DESCRIPTION:Calendar not up to date? Check https://fixtur.es/up-to-date
@@ -410,12 +405,32 @@ DTSTART;VALUE=DATE:20250828
 SUMMARY:Frank Geburtstag
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+SUMMARY:cancel overleaf!!!
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250917
 SUMMARY:renew fynnfr.org domain on epik.com
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251027
+SUMMARY:beginn anmeldung regulaer
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251028
+SUMMARY:ende anmeldung vorgezogen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251109
+SUMMARY:lol finals
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
 SUMMARY:Proton mail plus renewal (check discount code or something)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+SUMMARY:ende anmeldung regulaer
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251222T190000
@@ -3658,22 +3673,41 @@ DTSTART:20251127T143000
 DURATION:P0DT0H45M0S
 SUMMARY:Zahnarzttermin: Dr. Metten
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T200000
+SUMMARY:Flo's party
+END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:write introduction\, background and my main part (trump presidency)
-DESCRIPTION:read two chatgpt background papers and merge them while validating all sources\n	perhaps define classes of potential influence categorized into the broader sections of formal and informal influence\nread main chatgpt paper and generate a new one (with chatgpt tasked to fit influences into defined classes) after having written the background\; also merge them\nwrite introduction in after\n\n
+SUMMARY:backup all wallpaper
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:betreute abschlussarbeiten der profs anschauen
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:download letterboxd reviews and write typst script
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:learn cpp
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:leetcode
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:use gimp to draw
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:use okular
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
 SUMMARY:do some sql exercises/book
-END:VTODO
-BEGIN:VTODO
-PRIORITY:2
-SUMMARY:watch --la commune-- movie
-END:VTODO
-BEGIN:VTODO
-PRIORITY:3
-SUMMARY:pullup my nvim config
 END:VTODO
 BEGIN:VTODO
 PRIORITY:4
@@ -3694,6 +3728,10 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:git exercises
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:leetcoed
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -3787,6 +3825,16 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:backup
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:ben paypallen
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:benign runterladen
 STATUS:COMPLETED
 END:VTODO
@@ -3807,7 +3855,22 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:build difficult word list
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:call suna
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:change firefox to floorp in website
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:change logos of workspaces and make 1\,4\,8 and permanent
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -3844,6 +3907,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:1
 SUMMARY:create new branch from old commit where I got 0.65
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
+SUMMARY:create new email for all
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
@@ -4018,6 +4086,12 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:relocate scripts to gitrepo
+DESCRIPTION:perhaps backup wofi scripts to wofi config folder
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:remove that one is better or worse
 STATUS:COMPLETED
 END:VTODO
@@ -4156,6 +4230,12 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:1
+SUMMARY:write introduction\, background and my main part (trump presidency)
+DESCRIPTION:read two chatgpt background papers and merge them while validating all sources\n	perhaps define classes of potential influence categorized into the broader sections of formal and informal influence\nread main chatgpt paper and generate a new one (with chatgpt tasked to fit influences into defined classes) after having written the background\; also merge them\nwrite introduction in after\n\n
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:1
 SUMMARY:write script that inserts todos into todo file directly
 STATUS:COMPLETED
 END:VTODO
@@ -4181,6 +4261,11 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
+SUMMARY:swap to wezterm
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:2
 SUMMARY:tk nach dieser random bestaetigung fragen
 STATUS:COMPLETED
 END:VTODO
@@ -4195,6 +4280,11 @@ SUMMARY:update about section i nblog to incldue ladybird
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
+PRIORITY:2
+SUMMARY:watch --la commune-- movie
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
 PRIORITY:3
 SUMMARY:bei momox nachfragen woran es liegt
 STATUS:COMPLETED
@@ -4202,6 +4292,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:3
 SUMMARY:call ben
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:3
+SUMMARY:pullup my nvim config
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
