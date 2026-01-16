@@ -107,11 +107,6 @@ RRULE:FREQ=YEARLY
 SUMMARY:Paul bday
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250718
-RRULE:FREQ=MONTHLY
-SUMMARY:backup zotero
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250723
 RRULE:FREQ=YEARLY
 SUMMARY:Nick Geburtstag
@@ -3688,6 +3683,11 @@ DURATION:P0DT0H15M0S
 SUMMARY:corana impfung (impausweis + krankenkassenkarte)
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251210T150000
+DURATION:P0DT1H0M0S
+SUMMARY:uni master thesis meeting
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251220T200000
 SUMMARY:Flo's party
 END:VEVENT
@@ -3712,48 +3712,11 @@ SUMMARY:Zahnarzt Termin
 END:VEVENT
 BEGIN:VTODO
 PRIORITY:1
-SUMMARY:use gimp to draw
-END:VTODO
-BEGIN:VTODO
-PRIORITY:1
-SUMMARY:use okular
-END:VTODO
-BEGIN:VTODO
-PRIORITY:1
-SUMMARY:write quick zotero backup script
+SUMMARY:work throught Nina's HedgeDoc file in the next week and get back to her
 END:VTODO
 BEGIN:VTODO
 PRIORITY:2
-SUMMARY:do some sql exercises/book
-END:VTODO
-BEGIN:VTODO
-PRIORITY:4
-SUMMARY:learn to use search for command in history -- its strg+r
-END:VTODO
-BEGIN:VTODO
-PRIORITY:4
-SUMMARY:why and how I use bookmarks blog entry
-END:VTODO
-BEGIN:VTODO
-PRIORITY:8
-SUMMARY:argumenteGegenRechts weiter schreiben
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:fill in movies
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:git exercises
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:leetcoed
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:look into yubikeys again
-DESCRIPTION:will\, however\, have to buy two then
+SUMMARY:fix ly
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -3761,24 +3724,11 @@ SUMMARY:maintain setup.md
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
-SUMMARY:make more use of entr again
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:personal: contact TK for steuer
+SUMMARY:plan quiting smartphone (e.g. traderepublic\, c24\, who needs my new number etc.)
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:replace zotero backup functionality with rsync
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:sl\, ul\, di als track beim pruefungsamt anmelden (nach erhalt der klausuren)
-END:VTODO
-BEGIN:VTODO
-PRIORITY:0
-SUMMARY:use "svi" and "fcd" often
-DESCRIPTION:svi => search file and open in vi\nfcd => search file and change directory to its location
 END:VTODO
 BEGIN:VTODO
 PRIORITY:0
@@ -4377,6 +4327,11 @@ STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
 PRIORITY:4
+SUMMARY:learn to use search for command in history -- its strg+r
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:4
 SUMMARY:optimize space in webpages i.e. remove/compress images
 STATUS:COMPLETED
 END:VTODO
@@ -4408,6 +4363,11 @@ END:VTODO
 BEGIN:VTODO
 PRIORITY:0
 SUMMARY:look into GOOD search engine after kagi
+STATUS:COMPLETED
+END:VTODO
+BEGIN:VTODO
+PRIORITY:0
+SUMMARY:sl\, ul\, di als track beim pruefungsamt anmelden (nach erhalt der klausuren)
 STATUS:COMPLETED
 END:VTODO
 BEGIN:VTODO
