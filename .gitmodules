@@ -1,9 +1,0 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = git@github.com:adityatelange/hugo-PaperMod.git
-[submodule "themes/Archie"]
-	path = themes/Archie
-	url = git@github.com:athul/archie.git
-[submodule "content"]
-	path = content
-	url = git@github.com:PmaFynn/content.git
