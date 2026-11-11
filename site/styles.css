@@ -1,58 +1,77 @@
-:root {
-  --paper: #ebe5da;
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  min-width: 320px;
-  margin: 0;
-    margin: 2rem;
-    color: #000;
-    background: #fff;
-    font-family: sans-serif;
+  margin: 2rem;
+  color: #000;
+  background: #fff;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
-body::after {
-  position: fixed;
-  header {
-    margin-bottom: 4rem;
+
+header {
+  margin-bottom: 4rem;
+}
+
 a {
   color: inherit;
 }
-    color: #000;
-.site-footer a {
-  color: var(--ink);
-  main {
-    animation: rise-in 700ms ease both;
+
+h1 {
+  width: max-content;
+}
+
+h1::after {
+  display: block;
+  width: 2rem;
+  height: 2px;
+  margin-top: 0.5rem;
+  background: #000;
+  content: "";
+  animation: blink 2s steps(1, end) infinite;
+}
+
+main {
+  animation: rise-in 700ms ease both;
+}
+
+section {
+  margin: 4rem 0;
+}
+
+@keyframes blink {
+  0%,
+  45% {
     opacity: 1;
-    transform: translateY(0);
-  section {
-    margin: 4rem 0;
-  to {
-    opacity: 1;
-  footer {
-    margin-top: 4rem;
   }
 
-  @keyframes rise-in {
-}
-      opacity: 0;
-      transform: translateY(1rem);
-@keyframes orbit {
-  from {
-      opacity: 1;
-      transform: translateY(0);
+  50%,
+  100% {
+    opacity: 0;
   }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+
   to {
-    transform: rotate(360deg);
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
   html {
-    * {
+    scroll-behavior: auto;
+  }
+
   *,
   *::before,
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+  *::after {
+    animation: none !important;
   }
 }
