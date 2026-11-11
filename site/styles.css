@@ -18,20 +18,6 @@ a {
   color: inherit;
 }
 
-h1 {
-  width: max-content;
-}
-
-h1::after {
-  display: block;
-  width: 2rem;
-  height: 2px;
-  margin-top: 0.5rem;
-  background: #000;
-  content: "";
-  animation: blink 2s steps(1, end) infinite;
-}
-
 main {
   animation: rise-in 700ms ease both;
 }
@@ -40,16 +26,69 @@ section {
   margin: 4rem 0;
 }
 
-@keyframes blink {
-  0%,
-  45% {
-    opacity: 1;
-  }
+.artwork {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 4rem 0;
+  overflow: hidden;
+  border: 1px solid #000;
+}
 
-  50%,
-  100% {
-    opacity: 0;
-  }
+.artwork::before,
+.artwork::after {
+  position: absolute;
+  content: "";
+}
+
+.artwork::before {
+  inset: 1rem;
+  border: 1px solid #000;
+}
+
+.artwork::after {
+  inset: 2rem;
+  border: 1px solid #000;
+}
+
+.artwork-ring {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 6rem;
+  height: 6rem;
+  border: 1px solid #000;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.artwork-line {
+  position: absolute;
+  top: 50%;
+  left: -10%;
+  width: 120%;
+  height: 1px;
+  background: #000;
+  transform-origin: center;
+}
+
+.artwork-line-one {
+  animation: orbit 12s linear infinite;
+}
+
+.artwork-line-two {
+  animation: orbit 17s -4s linear infinite reverse;
+}
+
+.artwork-dot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  background: #000;
+  transform: translate(-50%, -50%);
 }
 
 @keyframes rise-in {
@@ -61,6 +100,16 @@ section {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes orbit {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
   }
 }
 
